@@ -4,11 +4,11 @@
 
 ### 新收录
 
-- [context-mode](https://github.com/mksglu/context-mode) - Stars: 15,062 ⭐ | Claude Code / Codex | 上下文窗口优化工具，将工具输出沙箱化，节省 98% token，15 平台支持
-- [ruflo](https://github.com/ruvnet/ruflo) - Stars: 52,735 ⭐ | Claude / Codex | 领先的 Agent 编排平台，部署多 Agent 集群、编排自主工作流，RAG 集成，支持 Claude Code/Codex 原生集成
-- [CopilotForXcode](https://github.com/github/CopilotForXcode) - Stars: 6,087 ⭐ | iOS/macOS/Swift | Xcode 的 AI 编程助手，支持 GitHub Copilot
-- [jcode](https://github.com/1jehuang/jcode) - Stars: 6,309 ⭐ | Claude/MCP/Rust | Coding Agent Harness，用 Rust 构建的 AI Coding Agent 框架，支持 MCP
-- [ref-tools-mcp](https://github.com/ref-tools/ref-tools-mcp) - Stars: 1,103 ⭐ | MCP Server | 帮助 Coding Agent 正确使用公共/私有库，不浪费上下文窗口的文档工具
+- [apple-docs-mcp](https://github.com/kimsungwhee/apple-docs-mcp) - Stars: 1,262 ⭐ | MCP Server | 苹果开发者文档 MCP Server，支持搜索 iOS/macOS/SwiftUI/UIKit 文档、WWDC 视频和 API 代码示例
+- [Xcode-Build-Optimization-Agent-Skill](https://github.com/AvdLee/Xcode-Build-Optimization-Agent-Skill) - Stars: 1,056 ⭐ | Agent Skill | AI Agent 技能，优化 Xcode 增量构建和清理构建，运行基准测试并优化构建设置
+- [sweetpad](https://github.com/sweetpad-dev/sweetpad) - Stars: 1,820 ⭐ | VSCode 插件 | 用 VSCode 开发 Swift/iOS 项目，支持调试、模拟器等
+- [RocketSimApp](https://github.com/AvdLee/RocketSimApp) - Stars: 742 ⭐ | Agent 工具 | Xcode iOS 模拟器 30+ 工具，支持 AI Agent 自动化（80k+ 开发者使用）
+- [claude-code-ios-dev-guide](https://github.com/keskinonur/claude-code-ios-dev-guide) - Stars: 703 ⭐ | Claude Code 指南 | Claude Code CLI 完整指南，针对 Swift/SwiftUI iOS 开发的工作流优化
 
 ### 统计
 
