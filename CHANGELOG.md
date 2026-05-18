@@ -4,11 +4,11 @@
 
 ### 新收录
 
-- [SwiftLint](https://github.com/realm/SwiftLint) - Stars: 19,573 ⭐ | 平台: iOS/macOS/watchOS/tvOS | Swift 代码风格检查工具，自动化规范团队代码
-- [alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Stars: 15,652 ⭐ | 平台: macOS | Windows 风格的窗口切换器，让 Mac 体验更高效
-- [Whisky](https://github.com/Whisky-App/Whisky) - Stars: 15,051 ⭐ | 平台: macOS | 基于 SwiftUI 的现代 Wine 包装器，运行 Windows 游戏
-- [swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) - Stars: 14,644 ⭐ | 平台: iOS/macOS/tvOS/watchOS | Point-Free 出品，构建可组合、可测试应用的架构库
-- [CodexBar](https://github.com/steipete/CodexBar) - Stars: 12,750 ⭐ | 平台: iOS/macOS | 查看 OpenAI Codex 和 Claude Code 使用统计的 Xcode 插件
+- [context-mode](https://github.com/mksglu/context-mode) - Stars: 15,062 ⭐ | Claude Code / Codex | 上下文窗口优化工具，将工具输出沙箱化，节省 98% token，15 平台支持
+- [ruflo](https://github.com/ruvnet/ruflo) - Stars: 52,735 ⭐ | Claude / Codex | 领先的 Agent 编排平台，部署多 Agent 集群、编排自主工作流，RAG 集成，支持 Claude Code/Codex 原生集成
+- [CopilotForXcode](https://github.com/github/CopilotForXcode) - Stars: 6,087 ⭐ | iOS/macOS/Swift | Xcode 的 AI 编程助手，支持 GitHub Copilot
+- [jcode](https://github.com/1jehuang/jcode) - Stars: 6,309 ⭐ | Claude/MCP/Rust | Coding Agent Harness，用 Rust 构建的 AI Coding Agent 框架，支持 MCP
+- [ref-tools-mcp](https://github.com/ref-tools/ref-tools-mcp) - Stars: 1,103 ⭐ | MCP Server | 帮助 Coding Agent 正确使用公共/私有库，不浪费上下文窗口的文档工具
 
 ### 统计
 
