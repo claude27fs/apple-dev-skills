@@ -1,6 +1,6 @@
 # Apple Dev Skills
 
-每日挖掘 GitHub 上关于 Apple 平台开发的流行 Skills。
+每日挖掘 GitHub 上**供 AI Agent 使用的 Skills**，与 Apple 平台开发相关。
 
 ## 收录规则
 
@@ -8,10 +8,9 @@
 
 ## 平台覆盖
 
-- iOS / iPadOS / macOS / watchOS / tvOS
-- Swift / Objective-C / SwiftUI / AppKit / UIKit
-- Apple Watch / Apple Silicon (Mac)
-- Xcode / Cocoa
+- iOS / iPadOS / macOS / watchOS / tvOS / visionOS
+- Swift / Objective-C / SwiftUI / AppKit / UIKit / Xcode
+- Claude Code Skills / MCP Server / Cursor Plugins / Codex Plugins
 
 ## Changelog
 
