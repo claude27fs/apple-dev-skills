@@ -1,5 +1,20 @@
 # Changelog
 
+## 2026-05-20
+
+### 新收录
+
+- [xcode-mcp-server](https://github.com/r-huijts/xcode-mcp-server) - Stars: 375 ⭐ | MCP Server | Xcode 项目管理、文件操作和构建自动化的 MCP Server 实现
+- [mcp-server-apple-shortcuts](https://github.com/recursechat/mcp-server-apple-shortcuts) - Stars: 325 ⭐ | MCP Server | Apple Shortcuts 集成的 MCP Server，支持 AI Agent 操作 iOS/macOS 快捷指令
+- [apple-health-mcp-server](https://github.com/the-momentum/apple-health-mcp-server) - Stars: 191 ⭐ | MCP Server | Apple Health 数据查询 MCP Server，支持自然语言查询健康数据（使用 DuckDB）
+- [swift-patterns-mcp](https://github.com/efremidze/swift-patterns-mcp) - Stars: 8 ⭐ | MCP Server | 提供来自 Swift by Sundell、SwiftLee 等优质 iOS 开发者的 Swift/SwiftUI 最佳实践 MCP Server
+- [xcode-studio-mcp](https://github.com/kevinswint/xcode-studio-mcp) - Stars: 7 ⭐ | MCP Server | 统一 MCP Server，支持从 Claude Code/Cursor 构建、部署、截图和交互 iOS Simulator
+
+### 统计
+
+- 今日新增：5
+- 累计收录：10
+
 ## 2026-05-19
 
 ### 新收录
