@@ -1,5 +1,20 @@
 # Changelog
 
+## 2026-05-21
+
+### 新收录
+
+- [native-mcp](https://github.com/nickovchinnikov/native-mcp) - Stars: N/A ⭐ | MCP Server | Native MCP Server for Mobile Development (Android, iOS, Flutter)，统一 MCP Server，映射原生屏幕和 WebViews，支持多设备并行控制
+- [bazel-apple-mcp](https://github.com/nickovchinnikov/bazel-apple-mcp) - Stars: N/A ⭐ | MCP Server | MCP server 和 CLI for Bazel-based Apple 平台开发——iOS/macOS/tvOS/watchOS/visionOS 构建、测试、调试工具链
+- [xc-mcp](https://github.com/nickovchinnikov/xc-mcp) - Stars: N/A ⭐ | MCP Server | XC-MCP 提供智能 Xcode 工具 MCP Server，具有渐进式披露和缓存功能防止 token 溢出，加速构建流程
+- [swift-lens-mcp](https://github.com/nickovchinnikov/swift-lens-mcp) - Stars: N/A ⭐ | MCP Server | SwiftLens 提供 Swift 代码库的深度语义级分析，为 AI 模型提供 Swift 代码结构理解能力
+- [ios-lifecycle-mcp](https://github.com/nickovchinnikov/ios-lifecycle-mcp) - Stars: N/A ⭐ | MCP Server | 完整 iOS 开发生命周期的 MCP Server——55 工具用于构建、测试、调试、UI 自动化，Native Swift 二进制
+
+### 统计
+
+- 今日新增：5
+- 累计收录：15
+
 ## 2026-05-20
 
 ### 新收录
