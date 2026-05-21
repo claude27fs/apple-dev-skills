@@ -1,5 +1,20 @@
 # Changelog
 
+## 2026-05-22
+
+### 新收录
+
+- [swift-ios-skills](https://github.com/dpearson2699/swift-ios-skills) - Stars: N/A ⭐ | Agent Skill | 84 个 Agent Skills 集合，针对 iOS 26+、Swift 6.3、SwiftUI 及现代 Apple 框架，涵盖 Liquid Glass、StoreKit 2、SwiftData 等最新 API
+- [Core-Data-Agent-Skill](https://github.com/AvdLee/Core-Data-Agent-Skill) - Stars: N/A ⭐ | Agent Skill | Apple Core Data 框架专家级 Agent Skill，提供数据建模、获取请求、性能优化和常见持久化模式指导
+- [xc-mcp](https://github.com/conorluddy/xc-mcp) - Stars: N/A ⭐ | MCP Server | Xcode CLI + iOS Simulator MCP Server，提供渐进式响应披露减少 token 消耗，支持 Accessibility-first 自动化（不同于 nickovchinnikov/xc-mcp）
+- [swift-patterns-skill](https://github.com/efremidze/swift-patterns-skill) - Stars: N/A ⭐ | Agent Skill | Swift/SwiftUI 最佳实践静态指南（与 swift-patterns-mcp 互补，后者为带检索功能的动态 MCP Server）
+- [ios-simulator-mcp](https://github.com/joshuayoes/ios-simulator-mcp) - Stars: N/A ⭐ | MCP Server | iOS Simulator 交互 MCP Server，支持获取模拟器信息、UI 交互、截图和辅助功能树查询
+
+### 统计
+
+- 今日新增：5
+- 累计收录：20
+
 ## 2026-05-21
 
 ### 新收录
