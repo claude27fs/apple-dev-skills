@@ -1,5 +1,18 @@
 # Changelog
 
+## 2026-05-24
+
+### 新收录
+- [sceneview/sceneview](https://github.com/sceneview/sceneview) - Stars: 1,216 ⭐ | MCP Server | 跨平台 3D/AR SDK，含 MCP Server + llms.txt + Copilot/Cursor rules，iOS 侧支持 SwiftUI + RealityKit
+- [conorluddy/xclaude-plugin](https://github.com/conorluddy/xclaude-plugin) - Stars: 159 ⭐ | Claude Code 插件 | iOS 开发 ClaudeCode 插件，模块化 MCP 组合 Xcode/IDB 工具，注重 token 与上下文管理
+- [nickustinov/itsyconnect-macos](https://github.com/nickustinov/itsyconnect-macos) - Stars: 96 ⭐ | MCP Server | App Store Connect 增强工具（Better App Store Connect），MCP Server 实现，支持 TestFlight
+- [skwallace36/Pepper](https://github.com/skwallace36/Pepper) - Stars: 89 ⭐ | MCP Server | iOS 动态库 MCP，专为 AI Agent 设计，支持无障碍辅助功能调试
+- [AppGram/bridge4simulator](https://github.com/AppGram/bridge4simulator) - Stars: 81 ⭐ | MCP Server | iOS Simulator 控制 MCP Server，无缝集成 Claude Desktop、Cursor、Claude Code 等 MCP 兼容客户端
+
+### 统计
+- 今日新增：5
+- 累计收录：23
+
 ## 2026-05-23
 
 ### 新收录
