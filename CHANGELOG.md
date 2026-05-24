@@ -1,5 +1,19 @@
 # Changelog
 
+## 2026-05-25
+
+### 新收录
+- [apple-docs-mcp](https://github.com/kimsungwhee/apple-docs-mcp) - Stars: 1,270 ⭐ | MCP Server | 苹果开发者文档智能搜索 MCP Server，支持 iOS/macOS/SwiftUI/UIKit/WWDC 视频搜索，多客户端支持
+- [ShipSwift](https://github.com/signerlabs/ShipSwift) - Stars: 1,676 ⭐ | AI 组件库 + MCP | AI-native SwiftUI 组件库，含 MCP Server 全栈食谱，StoreKit 2、Cognito 认证、Camera 等组件开箱即用
+- [macOS26/Agent](https://github.com/macOS26/Agent) - Stars: 440 ⭐ | Agent 工具 | macOS 原生 AI Agent，18 个 LLM 提供商，支持 Claude Code Teams、Xcode 构建、Apple Intelligence，100% 原生 Swift
+- [swiftui-design-skill](https://github.com/Wholiver/swiftui-design-skill) - Stars: 107 ⭐ | Agent Skill | SwiftUI 设计规范 Skill，含 6 条反 AI Slop 铁律、5 维设计评审、品牌资产集成
+- [apple-health-mcp-server](https://github.com/the-momentum/apple-health-mcp-server) - Stars: 191 ⭐ | MCP Server | Apple Health 数据查询 MCP Server，支持自然语言查询健康数据（使用 DuckDB）
+
+
+### 统计
+- 今日新增：5
+- 累计收录：28
+
 ## 2026-05-24
 
 ### 新收录
