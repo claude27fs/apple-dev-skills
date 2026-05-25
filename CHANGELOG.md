@@ -1,5 +1,18 @@
 # Changelog
 
+## 2026-05-26
+
+### 新收录
+- [twostraws/SwiftUI-Agent-Skill](https://github.com/twostraws/SwiftUI-Agent-Skill) - Stars: 3,964 ⭐ | Agent Skill | SwiftUI 专家级 Agent Skill，支持 Claude Code、Codex 等主流 AI 编程工具
+- [openclaw/Peekaboo](https://github.com/openclaw/Peekaboo) - Stars: 4,498 ⭐ | MCP Server | macOS 截图与视觉问答 MCP Server，支持本地/远程 AI 模型，Swift 实现
+- [AvdLee/SwiftUI-Agent-Skill](https://github.com/AvdLee/SwiftUI-Agent-Skill) - Stars: 2,920 ⭐ | Agent Skill | SwiftUI 最佳实践指导 Skill，Agent Skills 开放格式，Apple 平台开发必备
+- [Shpigford/chops](https://github.com/Shpigford/chops) - Stars: 1,352 ⭐ | macOS App | AI Agent Skills 管理器，支持 Claude Code、Cursor、Codex、Windsurf 等多平台，SwiftUI 开发
+- [crossoverJie/SkillDeck](https://github.com/crossoverJie/SkillDeck) - Stars: 375 ⭐ | macOS App | 原生 SwiftUI AI 代码 Agent Skills 管理工具，支持多 Agent 平台
+
+### 统计
+- 今日新增：5
+- 累计收录：33
+
 ## 2026-05-25
 
 ### 新收录
