@@ -1,5 +1,15 @@
 # Changelog
 
+## 2026-05-28
+
+### 新收录
+- [conorluddy/ios-simulator-skill](https://github.com/conorluddy/ios-simulator-skill) - Stars: 1,039 ⭐ | Claude Code Skill | iOS Simulator 完整自动化技能集，27 个脚本覆盖 xcodebuild 构建与 simctl 交互，支持语义化 UI 导航与无障碍测试
+
+### 统计
+- 今日新增：1
+- 累计收录：39
+- 注：今日仅挖掘到 1 款符合条件的 Apple 平台开发 AI Agent Skills（其余候选 stars 不足 50 或已在列表中）
+
 ## 2026-05-27
 
 ### 新收录
