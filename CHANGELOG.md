@@ -1,5 +1,18 @@
 # Changelog
 
+## 2026-05-27
+
+### 新收录
+- [modelcontextprotocol/swift-sdk](https://github.com/modelcontextprotocol/swift-sdk) - Stars: 1,395 ⭐ | MCP SDK | 官方 Swift SDK for Model Context Protocol，支持构建 MCP Server 与 Client，Apple 平台 MCP 开发必备
+- [mihaelamj/cupertino](https://github.com/mihaelamj/cupertino) - Stars: 802 ⭐ | MCP Server | 本地苹果开发者文档爬虫 MCP Server，Swift 实现，支持 iOS/macOS/SwiftUI/UIKit 文档搜索
+- [christopherkarani/Wax](https://github.com/christopherkarani/Wax) - Stars: 740 ⭐ | Agent Skill | Apple Silicon AI Agent 内存层，sub-ms RAG，Metal 优化，单文件轻量设计
+- [awizemann/scarf](https://github.com/awizemann/scarf) - Stars: 539 ⭐ | Agent App | Hermes AI Agent 原生 macOS/iOS 客户端，多窗口多 Server 架构，支持本地+远程 SSH
+- [swiftlens/swiftlens](https://github.com/swiftlens/swiftlens) - Stars: 124 ⭐ | MCP Server | Swift 代码库深度语义分析 MCP Server，支持 Claude Code、Cursor、Codex 等 AI 编程工具
+
+### 统计
+- 今日新增：5
+- 累计收录：38
+
 ## 2026-05-26
 
 ### 新收录
