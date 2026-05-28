@@ -1,5 +1,18 @@
 # Changelog
 
+## 2026-05-29
+
+### 新收录
+- [christopherkarani/Swarm](https://github.com/christopherkarani/Swarm) - Stars: 485 ⭐ | Agent Framework | Pure Swift 6.2 agent 编排框架，支持 Apple 平台原生 agent 工作流编排与跨进程通信
+- [awizemann/harness](https://github.com/awizemann/harness) - Stars: 266 ⭐ | Agent Tool | AI 驱动的 iOS Simulator/macOS 应用自动化测试工具，自然语言设定目标，LLM agent 驱动执行
+- [tddworks/asc-cli](https://github.com/tddworks/asc-cli) - Stars: 224 ⭐ | Agent Tool (CLI) | Swift CLI 实现 App Store Connect 管理，支持终端 & AI Agent 操作 iOS/macOS 应用发布全流程
+- [Techopolis/awesome-ios-ai](https://github.com/Techopolis/awesome-ios-ai) - Stars: 82 ⭐ | 资源合集 | AI agent skills、MCP servers 合集，专注提升 AI 编程助手在 Swift/iOS 开发中的能力
+- [ertembiyik/swift-agentation](https://github.com/ertembiyik/swift-agentation) - Stars: 59 ⭐ | Agent Tool | iOS 应用上下文视觉化分享给 AI agent，支持截图与 UI 状态的 agent 感知
+
+### 统计
+- 今日新增：5
+- 累计收录：44
+
 ## 2026-05-28
 
 ### 新收录
