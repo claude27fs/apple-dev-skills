@@ -1,5 +1,18 @@
 # Changelog
 
+## 2026-06-01
+
+### 新收录
+- [twostraws/Swift-Concurrency-Agent-Skill](https://github.com/twostraws/Swift-Concurrency-Agent-Skill) - Stars: 437 ⭐ | Agent Skill | Swift Concurrency 专家级 Agent Skill，支持 Claude Code、Codex 等 AI 编程工具，涵盖 async/await、Actors、Task 组等并发原语
+- [twostraws/SwiftData-Agent-Skill](https://github.com/twostraws/SwiftData-Agent-Skill) - Stars: 330 ⭐ | Agent Skill | SwiftData 持久化框架专家级 Agent Skill，支持 @Model、关系建模、iCloud 同步等现代数据管理
+- [twostraws/Swift-Testing-Agent-Skill](https://github.com/twostraws/Swift-Testing-Agent-Skill) - Stars: 330 ⭐ | Agent Skill | Swift Testing 框架专家级 Agent Skill，支持 #expect 宏、参数化测试、组织与执行 Swift 原生测试
+- [InditexTech/mcp-server-simulator-ios-idb](https://github.com/InditexTech/mcp-server-simulator-ios-idb) - Stars: 307 ⭐ | MCP Server | 基于 Facebook IDB 的 iOS Simulator MCP Server，支持通过自然语言命令操作模拟器（安装/启动/调试/截图等）
+- [Cocoanetics/SwiftMCP](https://github.com/Cocoanetics/SwiftMCP) - Stars: 156 ⭐ | MCP SDK | Swift MCP Server 原生实现，纯 Swift 构建 MCP Server，支持 Apple 平台原生集成
+
+### 统计
+- 今日新增：5
+- 累计收录：49
+
 ## 2026-05-29
 
 ### 新收录
