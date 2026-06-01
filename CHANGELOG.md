@@ -1,5 +1,19 @@
 # Changelog
 
+## 2026-06-02
+
+### 新收录
+- [Silbercue/SilbercueSwift](https://github.com/silbercue/SilbercueSwift) - Stars: 未获取 ⭐ | MCP Server | 最快的 iOS 开发 MCP 服务器，58 工具、16ms 截图（CoreSimulator IOSurface）、WDA 集成，零依赖单 Swift 二进制，替代 XcodeBuildMCP/Appium-MCP
+- [Stefan-Nitu/mcp-xcode-server](https://github.com/Stefan-Nitu/mcp-xcode-server) - Stars: 未获取 ⭐ | MCP Server | v0.6.0，AI 助手通过自然语言构建/测试/运行/管理 Apple 平台项目，172 commits，含可视化调试截图捕获
+- [a-25/ios-mcp-code-quality-server](https://github.com/a-25/ios-mcp-code-quality-server) - Stars: 未获取 ⭐ | MCP Server | MCP 服务器支持 AI 助手运行 Xcode 测试、SwiftLint 代码分析、代码质量报告，140 commits
+- [FradSer/mcp-server-apple-events](https://github.com/FradSer/mcp-server-apple-events) - Stars: 未获取 ⭐ | MCP Server | v1.3.0，macOS Apple Reminders & Calendar EventKit 原生集成，支持提醒/日历/子任务/标签/优先级等完整 CRUD
+- [atom2ueki/mcp-server-ios-simulator](https://github.com/atom2ueki/mcp-server-ios-simulator) - Stars: 未获取 ⭐ | MCP Server | MCP 实现 iOS 模拟器控制，支持 Docker 部署、Claude Code Action OIDC 集成，54 commits
+
+### 统计
+- 今日新增：5
+- 累计收录：54
+- ⚠️ 本次 Star 数据未获取（GitHub 网络不可达）
+
 ## 2026-06-01
 
 ### 新收录
