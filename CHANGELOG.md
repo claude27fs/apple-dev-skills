@@ -14,6 +14,19 @@
 - 累计收录：54
 - ⚠️ 本次 Star 数据未获取（GitHub 网络不可达）
 
+## 2026-06-03
+
+### 新收录
+- [callstackincubator/agent-device](https://github.com/callstackincubator/agent-device) - Stars: 2,385 ⭐ | Agent Tool (CLI + MCP) | 跨平台 CLI 控制 iOS/Android 设备给 AI Agent，支持 ADB、iOS Simulator、XCUITest、MCP 集成
+- [minitap-ai/mobile-use](https://github.com/minitap-ai/mobile-use) - Stars: 2,571 ⭐ | Agent Tool (Python) | AI Agent 直接在 iOS/Android 真机上操作 App，类似 browser-use 的移动版
+- [AvdLee/Swift-Concurrency-Agent-Skill](https://github.com/AvdLee/Swift-Concurrency-Agent-Skill) - Stars: 1,522 ⭐ | Agent Skill | Swift Concurrency 专家技能集，覆盖 async/await、Actors、Task 组、Sendable、结构化并发等
+- [blitzdotdev/blitz-mac](https://github.com/blitzdotdev/blitz-mac) - Stars: 1,691 ⭐ | MCP Server | 原生 macOS App Store Connect 工具，支持 AI Agent 提交 iOS 应用到 App Store、管理元数据
+- [EvanBacon/serve-sim](https://github.com/EvanBacon/serve-sim) - Stars: 1,277 ⭐ | Agent Tool (CLI) | Apple Simulator 即用启动工具，AI Agent 可 headless 模式管理 iOS/tvOS/watchOS 模拟器
+
+### 统计
+- 今日新增：5
+- 累计收录：59
+
 ## 2026-06-01
 
 ### 新收录
