@@ -1,5 +1,18 @@
 # Changelog
 
+## 2026-06-04
+
+### 新收录
+- [jfarcand/mirroir-mcp](https://github.com/jfarcand/mirroir-mcp) - Stars: 109 ⭐ | MCP Server | 通过 macOS iPhone Mirroring 控制真实 iPhone 的 MCP Server，支持截图、点击、滑动、输入，纯 Swift 实现
+- [johnrogers/claude-swift-engineering](https://github.com/johnrogers/claude-swift-engineering) - Stars: 209 ⭐ | Agent Skill | Swift/TCA 代码的 Agent Skills 集合，覆盖规划、实现、文档、测试全流程
+- [JoshuaRileyDev/app-store-connect-mcp-server](https://github.com/JoshuaRileyDev/app-store-connect-mcp-server) - Stars: 324 ⭐ | MCP Server | App Store Connect MCP Server，管理应用元数据与版本发布，与 blitz-mac 互补
+- [1amageek/SwiftAgent](https://github.com/1amageek/SwiftAgent) - Stars: 89 ⭐ | Agent Framework | 类型安全、声明式的 Swift AI Agent 框架，支持 MCP、Steps、结构化输出、FIFO 会话管理
+- [lapfelix/XcodeMCP](https://github.com/lapfelix/XcodeMCP) - Stars: 55 ⭐ | MCP Server | 通过 AppleScript 接口控制 Xcode 的 MCP Server，使用 XCLogParser 返回清晰构建结果
+
+### 统计
+- 今日新增：5
+- 累计收录：64
+
 ## 2026-06-02
 
 ### 新收录
