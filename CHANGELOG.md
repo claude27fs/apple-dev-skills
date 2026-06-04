@@ -1,5 +1,18 @@
 # Changelog
 
+## 2026-06-05
+
+### 新收录
+- [AlexGladkov/claude-in-mobile](https://github.com/AlexGladkov/claude-in-mobile) - Stars: 283 ⭐ | MCP Server | 移动与桌面自动化 MCP Server，支持 iOS Simulator (simctl) / Android (ADB) / Desktop (Compose Multiplatform)，类似 Claude in Chrome 的 mobile 版
+- [NakaokaRei/SwiftAutoGUI](https://github.com/NakaokaRei/SwiftAutoGUI) - Stars: 88 ⭐ | Agent Library (Swift) | macOS 自动化 Swift 库，支持鼠标/键盘/截图/图像识别，内置 AI Agent / Computer-Use 支持
+- [existential-birds/beagle](https://github.com/existential-birds/beagle) - Stars: 61 ⭐ | Claude Code Plugin Marketplace | 145 个框架感知的代码审查 Skills 合集，涵盖 iOS/Swift、Python、Go、Rust、React 等多语言，支持 Codex 等其他 Agent
+- [hmohamed01/swift-development](https://github.com/hmohamed01/swift-development) - Stars: 57 ⭐ | Agent Skill | Claude Code 专用 Swift iOS/macOS 开发 Skill
+- [Terryc21/workflow-audit](https://github.com/Terryc21/workflow-audit) - Stars: 52 ⭐ | Agent Skill | Claude Code 专用 Xcode SwiftUI 工作流审计 Skill
+
+### 统计
+- 今日新增：5
+- 累计收录：69
+
 ## 2026-06-04
 
 ### 新收录
