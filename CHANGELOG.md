@@ -1,6 +1,21 @@
 # Changelog
 
+## 2026-06-08
+
+### 新收录
+- [twostraws/Swift-Agent-Skills](https://github.com/twostraws/Swift-Agent-Skills) - Stars: 1,969 ⭐ | Agent Skill Directory | 开源 Swift/Apple 平台开发 AI Agent Skills 目录，收录大量社区 Skills
+- [Eronred/aso-skills](https://github.com/Eronred/aso-skills) - Stars: 1,464 ⭐ | Agent Skills | App Store 优化（ASO）和 App 营销专用 AI Agent Skills，面向独立开发者和 App 营销人员
+- [CharlesWiltgen/Axiom](https://github.com/CharlesWiltgen/Axiom) - Stars: 955 ⭐ | Agent Skills | 经过实战测试的 Claude Code Skills 集合，现代 xOS（iOS/iPadOS/watchOS/tvOS）开发
+- [rshankras/claude-code-apple-skills](https://github.com/rshankras/claude-code-apple-skills) - Stars: 394 ⭐ | Agent Skills | Claude Code Apple 平台开发（iOS/macOS/iPadOS）Skills，产品验证到代码生成全覆盖
+- [vabole/apple-skills](https://github.com/vabole/apple-skills) - Stars: 261 ⭐ | Agent Skills | Apple 开发 Skills 集合，支持 iOS 26+ API、SwiftUI、Liquid Glass 等最新框架
+
+### 统计
+- 今日新增：5
+- 累计收录：74
+
 ## 2026-06-05
+
+### 新收录
 
 ### 新收录
 - [AlexGladkov/claude-in-mobile](https://github.com/AlexGladkov/claude-in-mobile) - Stars: 283 ⭐ | MCP Server | 移动与桌面自动化 MCP Server，支持 iOS Simulator (simctl) / Android (ADB) / Desktop (Compose Multiplatform)，类似 Claude in Chrome 的 mobile 版
@@ -11,7 +26,7 @@
 
 ### 统计
 - 今日新增：5
-- 累计收录：69
+- 累计收录：74
 
 ## 2026-06-04
 
