@@ -1,5 +1,18 @@
 # Changelog
 
+## 2026-06-09
+
+### 新收录
+- [yibie/skills-manager](https://github.com/yibie/skills-manager) - Stars: 172 ⭐ | macOS App | 原生 SwiftUI macOS App，统一管理 Claude Code、Cursor、Copilot CLI、Codex、Gemini CLI 等多平台 Agent Skills
+- [giginet/xcodeproj-mcp-server](https://github.com/giginet/xcodeproj-mcp-server) - Stars: 132 ⭐ | MCP Server | 通过 MCP 协议操作 *.xcodeproj 项目文件，支持 AI Agent 直接管理 Xcode 项目配置与文件引用
+- [bocato/swift-testing-agent-skill](https://github.com/bocato/swift-testing-agent-skill) - Stars: 76 ⭐ | Agent Skill | Swift Testing 专家级 Agent Skill，覆盖 Test Doubles、Fixtures、异步模式、XCTest 迁移与测试最佳实践
+- [PasqualeVittoriosi/swift-accessibility-skill](https://github.com/PasqualeVittoriosi/swift-accessibility-skill) - Stars: 70 ⭐ | Agent Skill | Apple 平台无障碍 Agent Skill，覆盖 SwiftUI/UIKit/AppKit 全部 9 项 App Store 营养标签 + WCAG 2.2
+- [ameyalambat128/swiftui-skills](https://github.com/ameyalambat128/swiftui-skills) - Stars: 67 ⭐ | Agent Skill | 基于 Apple Xcode AI 文档构建的 SwiftUI Agent Skills，支持 Claude Code、Codex、Cursor、OpenCode 等平台
+
+### 统计
+- 今日新增：5
+- 累计收录：79
+
 ## 2026-06-08
 
 ### 新收录
