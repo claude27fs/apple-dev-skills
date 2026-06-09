@@ -1,5 +1,18 @@
 # Changelog
 
+## 2026-06-10
+
+### 新收录
+- [truongduy2611/app-store-preflight-skills](https://github.com/truongduy2611/app-store-preflight-skills) - Stars: 1,236 ⭐ | Agent Skill | App Store 预检 AI Agent Skill，扫描 iOS/macOS 项目在提交前的 App Store 拒绝风险模式
+- [twostraws/SwiftAgents](https://github.com/twostraws/SwiftAgents) - Stars: 1,338 ⭐ | Agent Skill | Swift/SwiftUI 项目的 AGENTS.md 模板，为 AI 编码助手提供 Apple 平台开发指南
+- [dadederk/iOS-Accessibility-Agent-Skill](https://github.com/dadederk/iOS-Accessibility-Agent-Skill) - Stars: 155 ⭐ | Agent Skill | iOS 无障碍最佳实践 Agent Skill（Agent Skills 开放格式），与 PasqualeVittoriosi 版本互补
+- [SwiftedMind/SwiftAgent](https://github.com/SwiftedMind/SwiftAgent) - Stars: 211 ⭐ | Agent SDK | 原生 Swift SDK 构建自主 AI Agent，基于 Apple FoundationModels 设计哲学
+- [raintree-technology/hig-doctor](https://github.com/raintree-technology/hig-doctor) - Stars: 66 ⭐ | Agent Skills | Apple HIG 审计 CLI + 14 个 Agent Skills，覆盖 iOS/macOS/tvOS/watchOS/visionOS 等 12 个框架的 HIG 合规评分
+
+### 统计
+- 今日新增：5
+- 累计收录：84
+
 ## 2026-06-09
 
 ### 新收录
