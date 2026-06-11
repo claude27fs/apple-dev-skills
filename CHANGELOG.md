@@ -1,5 +1,18 @@
 # Changelog
 
+## 2026-06-12
+
+### 新收录
+- [conorluddy/ios-simulator-skill](https://github.com/conorluddy/ios-simulator-skill) - Stars: 1,068 ⭐ | Agent Skill (ClaudeCode) | iOS Simulator Skill for Claude Code，优化 Claude 构建、运行和交互 iOS 应用的能力，内置 xcodebuild 包装器节省上下文
+- [mihaelamj/cupertino](https://github.com/mihaelamj/cupertino) - Stars: 828 ⭐ | MCP Server | 纯 Swift 实现的本地 Apple 文档爬虫 MCP 服务器，支持离线文档搜索，直接访问 iOS/macOS/SwiftUI 等 API 参考
+- [conorluddy/xclaude-plugin](https://github.com/conorluddy/xclaude-plugin) - Stars: 170 ⭐ | MCP/Plugin | iOS 开发 ClaudeCode Plugin，包含模块化 MCP 组、Xcode/IDB 工具分组，注重 token 消耗管理
+- [swiftlens/swiftlens](https://github.com/swiftlens/swiftlens) - Stars: 124 ⭐ | MCP Server | 语义级 Swift 代码分析 MCP 服务器，集成 Apple SourceKit-LSP，为 AI 模型提供编译级精度的 Swift 理解
+- [skwallace36/Pepper](https://github.com/skwallace36/Pepper) - Stars: 97 ⭐ | MCP Server | iOS 动态库(dylib) MCP 服务器，允许 AI Agent 直接在 iOS 模拟器中注入运行动态库，辅助调试与逆向分析
+
+### 统计
+- 今日新增：5
+- 累计收录：89
+
 ## 2026-06-10
 
 ### 新收录
