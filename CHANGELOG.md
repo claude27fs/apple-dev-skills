@@ -1,5 +1,23 @@
 # Changelog
 
+## 2026-06-15
+
+### 新收录
+（今日无符合条件的发现 — GitHub 搜索结果中无新的 Apple 平台 AI Agent Skills 达到 Stars >50 门槛）
+
+### 统计
+- 今日新增：0
+- 累计收录：89
+
+### 搜索概况
+检索关键词覆盖：`mcp-server ios swift apple development`、`agent skill swift swiftui ios claude code`、`ios simulator mcp` 等
+候选项目及星数（均低于 50⭐）：
+- `yusufkaran/swiftui-autotest-skill`: 23⭐ — iOS/SwiftUI 可视化测试 Skill
+- `PsychQuant/che-ical-mcp`: 27⭐ — macOS Calendar & Reminders MCP server
+- `nemanjavlahovic/instruments-mcp-server`: 15⭐ — Xcode Instruments 性能分析 MCP Server
+- `Compiler-Inc/SwiftMCP`: 49⭐ — Swift MCP 客户端/服务器框架 Package（iOS/macOS）
+- `gjeltep/app-store-connect-mcp`: 1⭐  — App Store Connect API MCP Server
+
 ## 2026-06-12
 
 ### 新收录
