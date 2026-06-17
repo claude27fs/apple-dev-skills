@@ -298,3 +298,19 @@
 
 - 今日新增：5
 - 累计收录：5
+
+## 2026-06-18
+
+### 新收录
+- [Manavarya09/design-extract](https://github.com/Manavarya09/design-extract) - Stars: 3,264 ⭐ | MCP Server | 设计系统提取 MCP Server，从网站抓取完整设计系统生成 DTCG tokens，多平台 emitters（iOS SwiftUI、Android Compose、Flutter、Tailwind v4），支持 Claude Code/Cursor/Windsurf
+- [hypersocialinc/shots](https://github.com/hypersocialinc/shots) - Stars: 189 ⭐ | Agent Skill | Claude Code 技能，用 GPT Image 2 一键生成可上传的 App Store 截图，简化 iOS 应用上架截图流程
+- [hubeiqiao/apple-bento-grid](https://github.com/hubeiqiao/apple-bento-grid) - Stars: 186 ⭐ | Agent Skill | 生成 Apple 风格 bento grid 展示卡的 Agent Skill，适用于 Claude Code、Codex 等 AI 编程工具
+- [superagents-lab/xcode27-skills](https://github.com/superagents-lab/xcode27-skills) - Stars: 93 ⭐ | Agent Skill | 苹果 Xcode 27 导出的官方 Agent Skills，覆盖 SwiftUI、UIKit 现代化、Swift Testing 等 Apple 开发领域
+- [RuochenLyu/apple-health-analyst](https://github.com/RuochenLyu/apple-health-analyst) - Stars: 53 ⭐ | Agent Skill | 隐私优先的 Apple Health 数据分析 Agent Skill，跨指标洞察、行为模式分析与健康报告生成
+
+### 统计
+- 今日新增：5
+- 累计收录：94
+
+### 搜索概况
+检索关键词覆盖：`ios mcp server`、`apple skill claude code`、`swiftui agent skill`、`xcode mcp server`、`apple development mcp
