@@ -1,5 +1,36 @@
 # Changelog
 
+## 2026-06-20
+
+### 新收录
+- [steipete/macos-automator-mcp](https://github.com/steipete/macos-automator-mcp) - Stars: 823 ⭐ | MCP Server | 由 PSPDFKit 创始人 Peter Steinberger 开发，通过 AppleScript/JXA 实现 macOS 自动化的 MCP 服务器，助力 AI Agent 操控 macOS 系统与应用
+- [fayazara/macos-app-skills](https://github.com/fayazara/macos-app-skills) - Stars: 590 ⭐ | Agent Skills | AI 编码 Agent Skills 集合，专为原生 macOS 应用的构建、发布与维护设计，原生 Swift 实现
+- [axiaoge2/Apple-Hig-Designer](https://github.com/axiaoge2/Apple-Hig-Designer) - Stars: 124 ⭐ | Agent Skill | 遵循 Apple Human Interface Guidelines 的 Agent Skill，用于 AI Agent 设计苹果风格的前端交互界面
+- [BingoWon/apple-rag-mcp](https://github.com/BingoWon/apple-rag-mcp) - Stars: 115 ⭐ | MCP Server | Apple 开发者文档 RAG MCP Server，通过语义搜索为 AI Agent 提供即时访问 Apple 开发者文档的能力
+- [justinwetch/HIGAgentSkills](https://github.com/justinwetch/HIGAgentSkills) - Stars: 87 ⭐ | Agent Skills | Apple Human Interface Guidelines 的 Agent Skills 集合，帮助 AI Agent 设计与开发符合 HIG 规范的苹果平台界面
+
+### 统计
+- 今日新增：5
+- 累计收录：99
+
+### 搜索概况
+检索关键词覆盖：`mcp server ios swift`、`agent skill swift swiftui ios`、`apple mcp server`、`macos automation mcp`、`agent skill apple`、`macos app skills`
+
+## 2026-06-18
+
+### 新收录
+- [Manavarya09/design-extract](https://github.com/Manavarya09/design-extract) - Stars: 3,264 ⭐ | MCP Server | 设计系统提取 MCP Server，从网站抓取完整设计系统生成 DTCG tokens，多平台 emitters（iOS SwiftUI、Android Compose、Flutter、Tailwind v4），支持 Claude Code/Cursor/Windsurf
+- [hypersocialinc/shots](https://github.com/hypersocialinc/shots) - Stars: 189 ⭐ | Agent Skill | Claude Code 技能，用 GPT Image 2 一键生成可上传的 App Store 截图，简化 iOS 应用上架截图流程
+- [hubeiqiao/apple-bento-grid](https://github.com/hubeiqiao/apple-bento-grid) - Stars: 186 ⭐ | Agent Skill | 生成 Apple 风格 bento grid 展示卡的 Agent Skill，适用于 Claude Code、Codex 等 AI 编程工具
+- [superagents-lab/xcode27-skills](https://github.com/superagents-lab/xcode27-skills) - Stars: 93 ⭐ | Agent Skill | 苹果 Xcode 27 导出的官方 Agent Skills，覆盖 SwiftUI、UIKit 现代化、Swift Testing 等 Apple 开发领域
+- [RuochenLyu/apple-health-analyst](https://github.com/RuochenLyu/apple-health-analyst) - Stars: 53 ⭐ | Agent Skill | 隐私优先的 Apple Health 数据分析 Agent Skill，跨指标洞察、行为模式分析与健康报告生成
+
+### 统计
+- 今日新增：5
+- 累计收录：94
+
+### 搜索概况
+检索关键词覆盖：`ios mcp server`、`apple skill claude code`、`swiftui agent skill`、`xcode mcp server`、`apple development mcp
 ## 2026-06-15
 
 ### 新收录
@@ -18,19 +49,6 @@
 - `Compiler-Inc/SwiftMCP`: 49⭐ — Swift MCP 客户端/服务器框架 Package（iOS/macOS）
 - `gjeltep/app-store-connect-mcp`: 1⭐  — App Store Connect API MCP Server
 
-## 2026-06-12
-
-### 新收录
-- [conorluddy/ios-simulator-skill](https://github.com/conorluddy/ios-simulator-skill) - Stars: 1,068 ⭐ | Agent Skill (ClaudeCode) | iOS Simulator Skill for Claude Code，优化 Claude 构建、运行和交互 iOS 应用的能力，内置 xcodebuild 包装器节省上下文
-- [mihaelamj/cupertino](https://github.com/mihaelamj/cupertino) - Stars: 828 ⭐ | MCP Server | 纯 Swift 实现的本地 Apple 文档爬虫 MCP 服务器，支持离线文档搜索，直接访问 iOS/macOS/SwiftUI 等 API 参考
-- [conorluddy/xclaude-plugin](https://github.com/conorluddy/xclaude-plugin) - Stars: 170 ⭐ | MCP/Plugin | iOS 开发 ClaudeCode Plugin，包含模块化 MCP 组、Xcode/IDB 工具分组，注重 token 消耗管理
-- [swiftlens/swiftlens](https://github.com/swiftlens/swiftlens) - Stars: 124 ⭐ | MCP Server | 语义级 Swift 代码分析 MCP 服务器，集成 Apple SourceKit-LSP，为 AI 模型提供编译级精度的 Swift 理解
-- [skwallace36/Pepper](https://github.com/skwallace36/Pepper) - Stars: 97 ⭐ | MCP Server | iOS 动态库(dylib) MCP 服务器，允许 AI Agent 直接在 iOS 模拟器中注入运行动态库，辅助调试与逆向分析
-
-### 统计
-- 今日新增：5
-- 累计收录：89
-
 ## 2026-06-13
 
 ### 新收录
@@ -47,6 +65,19 @@
 - `Averyy/apple-dev-docs`: 7⭐ — Apple 开发者文档 MCP
 - `nzrsky/xctools-mcp-server`: 2⭐ — Xcode 工具 MCP 服务器
 - `nzrsky/simctl-mcp-server`: 不到 50⭐ — iOS Simulator MCP 服务器
+
+## 2026-06-12
+
+### 新收录
+- [conorluddy/ios-simulator-skill](https://github.com/conorluddy/ios-simulator-skill) - Stars: 1,068 ⭐ | Agent Skill (ClaudeCode) | iOS Simulator Skill for Claude Code，优化 Claude 构建、运行和交互 iOS 应用的能力，内置 xcodebuild 包装器节省上下文
+- [mihaelamj/cupertino](https://github.com/mihaelamj/cupertino) - Stars: 828 ⭐ | MCP Server | 纯 Swift 实现的本地 Apple 文档爬虫 MCP 服务器，支持离线文档搜索，直接访问 iOS/macOS/SwiftUI 等 API 参考
+- [conorluddy/xclaude-plugin](https://github.com/conorluddy/xclaude-plugin) - Stars: 170 ⭐ | MCP/Plugin | iOS 开发 ClaudeCode Plugin，包含模块化 MCP 组、Xcode/IDB 工具分组，注重 token 消耗管理
+- [swiftlens/swiftlens](https://github.com/swiftlens/swiftlens) - Stars: 124 ⭐ | MCP Server | 语义级 Swift 代码分析 MCP 服务器，集成 Apple SourceKit-LSP，为 AI 模型提供编译级精度的 Swift 理解
+- [skwallace36/Pepper](https://github.com/skwallace36/Pepper) - Stars: 97 ⭐ | MCP Server | iOS 动态库(dylib) MCP 服务器，允许 AI Agent 直接在 iOS 模拟器中注入运行动态库，辅助调试与逆向分析
+
+### 统计
+- 今日新增：5
+- 累计收录：89
 
 ## 2026-06-10
 
@@ -115,6 +146,19 @@
 - 今日新增：5
 - 累计收录：64
 
+## 2026-06-03
+
+### 新收录
+- [callstackincubator/agent-device](https://github.com/callstackincubator/agent-device) - Stars: 2,385 ⭐ | Agent Tool (CLI + MCP) | 跨平台 CLI 控制 iOS/Android 设备给 AI Agent，支持 ADB、iOS Simulator、XCUITest、MCP 集成
+- [minitap-ai/mobile-use](https://github.com/minitap-ai/mobile-use) - Stars: 2,571 ⭐ | Agent Tool (Python) | AI Agent 直接在 iOS/Android 真机上操作 App，类似 browser-use 的移动版
+- [AvdLee/Swift-Concurrency-Agent-Skill](https://github.com/AvdLee/Swift-Concurrency-Agent-Skill) - Stars: 1,522 ⭐ | Agent Skill | Swift Concurrency 专家技能集，覆盖 async/await、Actors、Task 组、Sendable、结构化并发等
+- [blitzdotdev/blitz-mac](https://github.com/blitzdotdev/blitz-mac) - Stars: 1,691 ⭐ | MCP Server | 原生 macOS App Store Connect 工具，支持 AI Agent 提交 iOS 应用到 App Store、管理元数据
+- [EvanBacon/serve-sim](https://github.com/EvanBacon/serve-sim) - Stars: 1,277 ⭐ | Agent Tool (CLI) | Apple Simulator 即用启动工具，AI Agent 可 headless 模式管理 iOS/tvOS/watchOS 模拟器
+
+### 统计
+- 今日新增：5
+- 累计收录：59
+
 ## 2026-06-02
 
 ### 新收录
@@ -128,19 +172,6 @@
 - 今日新增：5
 - 累计收录：54
 - ⚠️ 本次 Star 数据未获取（GitHub 网络不可达）
-
-## 2026-06-03
-
-### 新收录
-- [callstackincubator/agent-device](https://github.com/callstackincubator/agent-device) - Stars: 2,385 ⭐ | Agent Tool (CLI + MCP) | 跨平台 CLI 控制 iOS/Android 设备给 AI Agent，支持 ADB、iOS Simulator、XCUITest、MCP 集成
-- [minitap-ai/mobile-use](https://github.com/minitap-ai/mobile-use) - Stars: 2,571 ⭐ | Agent Tool (Python) | AI Agent 直接在 iOS/Android 真机上操作 App，类似 browser-use 的移动版
-- [AvdLee/Swift-Concurrency-Agent-Skill](https://github.com/AvdLee/Swift-Concurrency-Agent-Skill) - Stars: 1,522 ⭐ | Agent Skill | Swift Concurrency 专家技能集，覆盖 async/await、Actors、Task 组、Sendable、结构化并发等
-- [blitzdotdev/blitz-mac](https://github.com/blitzdotdev/blitz-mac) - Stars: 1,691 ⭐ | MCP Server | 原生 macOS App Store Connect 工具，支持 AI Agent 提交 iOS 应用到 App Store、管理元数据
-- [EvanBacon/serve-sim](https://github.com/EvanBacon/serve-sim) - Stars: 1,277 ⭐ | Agent Tool (CLI) | Apple Simulator 即用启动工具，AI Agent 可 headless 模式管理 iOS/tvOS/watchOS 模拟器
-
-### 统计
-- 今日新增：5
-- 累计收录：59
 
 ## 2026-06-01
 
@@ -298,35 +329,3 @@
 
 - 今日新增：5
 - 累计收录：5
-
-## 2026-06-20
-
-### 新收录
-- [steipete/macos-automator-mcp](https://github.com/steipete/macos-automator-mcp) - Stars: 823 ⭐ | MCP Server | 由 PSPDFKit 创始人 Peter Steinberger 开发，通过 AppleScript/JXA 实现 macOS 自动化的 MCP 服务器，助力 AI Agent 操控 macOS 系统与应用
-- [fayazara/macos-app-skills](https://github.com/fayazara/macos-app-skills) - Stars: 590 ⭐ | Agent Skills | AI 编码 Agent Skills 集合，专为原生 macOS 应用的构建、发布与维护设计，原生 Swift 实现
-- [axiaoge2/Apple-Hig-Designer](https://github.com/axiaoge2/Apple-Hig-Designer) - Stars: 124 ⭐ | Agent Skill | 遵循 Apple Human Interface Guidelines 的 Agent Skill，用于 AI Agent 设计苹果风格的前端交互界面
-- [BingoWon/apple-rag-mcp](https://github.com/BingoWon/apple-rag-mcp) - Stars: 115 ⭐ | MCP Server | Apple 开发者文档 RAG MCP Server，通过语义搜索为 AI Agent 提供即时访问 Apple 开发者文档的能力
-- [justinwetch/HIGAgentSkills](https://github.com/justinwetch/HIGAgentSkills) - Stars: 87 ⭐ | Agent Skills | Apple Human Interface Guidelines 的 Agent Skills 集合，帮助 AI Agent 设计与开发符合 HIG 规范的苹果平台界面
-
-### 统计
-- 今日新增：5
-- 累计收录：99
-
-### 搜索概况
-检索关键词覆盖：`mcp server ios swift`、`agent skill swift swiftui ios`、`apple mcp server`、`macos automation mcp`、`agent skill apple`、`macos app skills`
-
-## 2026-06-18
-
-### 新收录
-- [Manavarya09/design-extract](https://github.com/Manavarya09/design-extract) - Stars: 3,264 ⭐ | MCP Server | 设计系统提取 MCP Server，从网站抓取完整设计系统生成 DTCG tokens，多平台 emitters（iOS SwiftUI、Android Compose、Flutter、Tailwind v4），支持 Claude Code/Cursor/Windsurf
-- [hypersocialinc/shots](https://github.com/hypersocialinc/shots) - Stars: 189 ⭐ | Agent Skill | Claude Code 技能，用 GPT Image 2 一键生成可上传的 App Store 截图，简化 iOS 应用上架截图流程
-- [hubeiqiao/apple-bento-grid](https://github.com/hubeiqiao/apple-bento-grid) - Stars: 186 ⭐ | Agent Skill | 生成 Apple 风格 bento grid 展示卡的 Agent Skill，适用于 Claude Code、Codex 等 AI 编程工具
-- [superagents-lab/xcode27-skills](https://github.com/superagents-lab/xcode27-skills) - Stars: 93 ⭐ | Agent Skill | 苹果 Xcode 27 导出的官方 Agent Skills，覆盖 SwiftUI、UIKit 现代化、Swift Testing 等 Apple 开发领域
-- [RuochenLyu/apple-health-analyst](https://github.com/RuochenLyu/apple-health-analyst) - Stars: 53 ⭐ | Agent Skill | 隐私优先的 Apple Health 数据分析 Agent Skill，跨指标洞察、行为模式分析与健康报告生成
-
-### 统计
-- 今日新增：5
-- 累计收录：94
-
-### 搜索概况
-检索关键词覆盖：`ios mcp server`、`apple skill claude code`、`swiftui agent skill`、`xcode mcp server`、`apple development mcp
