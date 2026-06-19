@@ -299,6 +299,22 @@
 - 今日新增：5
 - 累计收录：5
 
+## 2026-06-20
+
+### 新收录
+- [steipete/macos-automator-mcp](https://github.com/steipete/macos-automator-mcp) - Stars: 823 ⭐ | MCP Server | 由 PSPDFKit 创始人 Peter Steinberger 开发，通过 AppleScript/JXA 实现 macOS 自动化的 MCP 服务器，助力 AI Agent 操控 macOS 系统与应用
+- [fayazara/macos-app-skills](https://github.com/fayazara/macos-app-skills) - Stars: 590 ⭐ | Agent Skills | AI 编码 Agent Skills 集合，专为原生 macOS 应用的构建、发布与维护设计，原生 Swift 实现
+- [axiaoge2/Apple-Hig-Designer](https://github.com/axiaoge2/Apple-Hig-Designer) - Stars: 124 ⭐ | Agent Skill | 遵循 Apple Human Interface Guidelines 的 Agent Skill，用于 AI Agent 设计苹果风格的前端交互界面
+- [BingoWon/apple-rag-mcp](https://github.com/BingoWon/apple-rag-mcp) - Stars: 115 ⭐ | MCP Server | Apple 开发者文档 RAG MCP Server，通过语义搜索为 AI Agent 提供即时访问 Apple 开发者文档的能力
+- [justinwetch/HIGAgentSkills](https://github.com/justinwetch/HIGAgentSkills) - Stars: 87 ⭐ | Agent Skills | Apple Human Interface Guidelines 的 Agent Skills 集合，帮助 AI Agent 设计与开发符合 HIG 规范的苹果平台界面
+
+### 统计
+- 今日新增：5
+- 累计收录：99
+
+### 搜索概况
+检索关键词覆盖：`mcp server ios swift`、`agent skill swift swiftui ios`、`apple mcp server`、`macos automation mcp`、`agent skill apple`、`macos app skills`
+
 ## 2026-06-18
 
 ### 新收录
