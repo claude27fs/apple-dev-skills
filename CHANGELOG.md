@@ -1,5 +1,19 @@
 # Changelog
 
+## 2026-06-21
+
+### 新收录
+- [Dimillian/Skills](https://github.com/Dimillian/Skills) - Stars: 3,706 ⭐ | Agent Skills | 知名 Apple 开发者 Thomas Ricouard（Ice Cubes Mastodon 客户端作者）的个人 Codex Skills 集合，涵盖 Swift/SwiftUI 苹果平台开发全流程的 AI Agent Skills
+- [omarshahine/HomeClaw](https://github.com/omarshahine/HomeClaw) - Stars: 148 ⭐ | MCP Server | 通过 MCP 协议控制 Apple HomeKit 智能家居 — 灯光、门锁、恒温器、场景，支持 Claude Desktop、Claude Code 和 OpenClaw
+- [teunlao/swift-ai-sdk](https://github.com/teunlao/swift-ai-sdk) - Stars: 139 ⭐ | AI SDK (Swift) | 统一 AI SDK for Swift，将 Vercel AI SDK 的能力带到 Apple 平台，支持 MCP、Claude、OpenAI、Gemini 等多模型集成
+
+### 统计
+- 今日新增：3
+- 累计收录：102
+
+### 搜索概况
+检索关键词覆盖：`ios mcp server`、`apple agent skill swift`、`swiftui agent skill`、`topic:agent-skills+topic:swift`、`swift mcp server agent` 等。
+
 ## 2026-06-20
 
 ### 新收录
