@@ -1,5 +1,24 @@
 # Changelog
 
+## 2026-06-23
+
+### 新收录
+- [s4dp4nd4/frida-c2-mcp](https://github.com/s4dp4nd4/frida-c2-mcp) - Stars: 53 ⭐ | MCP Server | Agentic C2-style MCP server for Frida instrumentation — 支持在越狱 iOS 设备上通过 Frida 注入脚本，让 AI Agent 进行动态分析与逆向工程
+
+### 统计
+- 今日新增：1
+- 累计收录：103
+
+### 搜索概况
+检索关键词覆盖：`ios mcp server agent`、`swift agent skill apple`、`claude code skill ios swift`、`topic:mcp-server+topic:ios`、`topic:agent-skills+topic:swift` 等
+候选项目及星数（均低于 50⭐ 或已在列表中）：
+- `devsemih/appstore-review-skill`: 46⭐ — App Store Review Guidelines 检查 skill（<50⭐）
+- `Xopoko/build-swift-apps`: 32⭐ — Swift 多 Agent 构建 skill（<50⭐）
+- `piemonte/apple-engineer-superpowers`: 25⭐ — Apple 平台工程 skill 集（<50⭐）
+- `zelentsov-dev/asc-mcp`: 41⭐ — App Store Connect MCP Server（<50⭐）
+- `ivan-magda/swift-security-skill`: 26⭐ — Swift 安全存储 skill（<50⭐）
+- `n0an/App-Intents-Agent-Skill`: 13⭐ — Swift App Intents skill（<50⭐）
+
 ## 2026-06-21
 
 ### 新收录
