@@ -1,5 +1,24 @@
 # Changelog
 
+## 2026-06-26
+
+### 新收录
+（今日无符合条件的发现 — GitHub 搜索结果中无新的 Apple 平台 AI Agent Skills 达到 Stars >50 门槛，且不在现有列表中）
+
+### 统计
+- 今日新增：0
+- 累计收录：103
+
+### 搜索概况
+检索关键词覆盖：`ios mcp server agent`、`swift agent skill claude code`、`apple development mcp server`、`xcode mcp server`、`swiftui agent skill`、`appstore connect mcp`、`macos mcp server apple`、`ios simulator mcp` 等。
+候选项目及星数（均低于 50⭐ 或已在列表中）：
+- `neiltron/apple-health-mcp`: 550⭐ — Apple Health 数据 SQL 查询 MCP Server（与 `the-momentum/apple-health-mcp-server` 类别相似）
+- `peakmojo/applescript-mcp`: 462⭐ — macOS AppleScript 执行 MCP Server（通用 macOS 自动化，非 Apple 开发专精）
+- `joshrutkowski/applescript-mcp`: 391⭐ — macOS AppleScript MCP Server（同上，通用自动化）
+- `carterlasalle/mac_messages_mcp`: 298⭐ — iMessage 数据库 MCP Server（非开发相关）
+- `robzilla1738/skillz-macos`: 123⭐ — macOS 本地 Skills 管理 App（类 `chops`/`skills-manager`，星数较少）
+- `easychen/keynote-mcp`: 65⭐ — Keynote 幻灯片控制 MCP Server（非开发相关）
+
 ## 2026-06-23
 
 ### 新收录
