@@ -1,5 +1,19 @@
 # Changelog
 
+## 2026-06-28
+
+### 新收录
+（今日无符合条件的发现 — GitHub 搜索结果中无新的 Apple 平台 AI Agent Skills 达到 Stars >50 门槛，且不在现有列表中）
+
+### 统计
+- 今日新增：0
+- 累计收录：103
+
+### 搜索概况
+⚠️ 搜索受限：**MiniMax 搜索 API 用量超限**，无法进行 web_search。改为 web_fetch 方式直接抓取 GitHub 搜索页。
+检索关键词覆盖：`apple mcp server stars:>50`、`swift agent skill stars:>50`、`ios simulator mcp stars:>50`、`topic:agent-skills`（按更新时间排序）等。
+未发现新的符合标准（Stars > 50 | Apple 开发相关 | AI Agent Skill）的项目。
+
 ## 2026-06-27
 
 ### 新收录
