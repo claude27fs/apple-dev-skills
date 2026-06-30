@@ -1,5 +1,21 @@
 # Changelog
 
+## 2026-07-01
+
+### 新收录
+- [mattt/iMCP](https://github.com/mattt/iMCP) - Stars: 1,473 ⭐ | MCP Server | 原生 macOS App 提供 MCP 服务器接口访问 Messages、Contacts、Reminders 等 Apple 原生应用，纯 Swift 构建，让 AI Agent 直接操控 macOS 通讯与日历功能
+- [waybarrios/vllm-mlx](https://github.com/waybarrios/vllm-mlx) - Stars: 1,382 ⭐ | MCP Server | 基于 MLX 的 Apple Silicon 本地 LLM 推理服务器，支持 MCP 工具调用与 Claude Code 集成，原生 Metal 加速，400+ tok/s 性能
+- [kellyvv/PhoneClaw](https://github.com/kellyvv/PhoneClaw) - Stars: 1,115 ⭐ | Agent Framework | 移动端原生本地 AI Agent 框架 for iPhone，完全离线可运行，支持 on-device 模型、HealthKit 集成、原生 iOS Skills 和可选的 Mac Gateway 推理
+- [neiltron/apple-health-mcp](https://github.com/neiltron/apple-health-mcp) - Stars: 551 ⭐ | MCP Server | Apple Health 数据查询 MCP 服务器，支持自然语言与 SQL 双重查询方式，让 AI Agent 分析健康趋势
+- [witchan/ios-mcp](https://github.com/witchan/ios-mcp) - Stars: 548 ⭐ | MCP Server | iOS MCP 管理工具 for 越狱 iPhone，支持开发者与 AI Agent 监控和控制设备，含进程管理、文件系统访问、网络抓包等功能
+
+### 统计
+- 今日新增：5
+- 累计收录：108
+
+### 搜索概况
+检索关键词覆盖：`apple mcp server`、`swift agent skill`、`ios mcp server`、`swiftui agent skill`、`ios automation mcp agent`、`apple health mcp`、`swift agent framework mcp` 等
+
 ## 2026-06-28
 
 ### 新收录
