@@ -1,16 +1,26 @@
 # Changelog
 
-## 2026-07-05
+## 2026-07-07
 
 ### 新收录
-（今日无符合条件的发现 — GitHub 搜索结果中无新的 Apple 平台 AI Agent Skills 达到 Stars >50 门槛，且不在现有列表中）
+- [pcliangx/AppGenesisForge](https://github.com/pcliangx/AppGenesisForge) - Stars: 735 ⭐ | Agent Skill | AI Agent Team scaffold for Claude Code — 19 个角色分阶段协作，通过强制技能 + 阻断钩子 + DoD 清单执行，支持 Apple 原生 (macOS/iOS) 开发、Web 和微信小程序多平台，中文/EN 双语文档
+- [NakaokaRei/swift-mcp-gui](https://github.com/NakaokaRei/swift-mcp-gui) - Stars: 62 ⭐ | MCP Server | 可在 macOS 上执行键盘输入、鼠标移动等 GUI 自动化操作的 MCP 服务器，Swift 实现，同期作者另一项目 SwiftAutoGUI 已收录
+
+### 候选未收录（Stars < 50 或不符合条件）
+- `GyroJoe/swift-xcuitest-mcp`: 0⭐ — 在 XCUITest 内运行的 MCP 服务器，AI Agent 语义化控制 iOS 应用（新项目，Stars 不足）
+- `eyzuky/deinitive`: 2⭐ — iOS 模拟器内存分析 MCP 服务器（新项目，Stars 不足）
+- `riwsky/iosef`: 14⭐ — iOS Simulator 自动化 CLI 和 MCP 服务器（Stars 不足）
+- `nemanjavlahovic/instruments-mcp-server`: 18⭐ — Xcode Instruments 性能分析 MCP 服务器（Stars 不足）
+- `carloshpdoc/memorydetective`: 13⭐ — iOS 内存泄漏挖掘 MCP 服务器（Stars 不足）
 
 ### 统计
-- 今日新增：0
-- 累计收录：108
+- 今日新增：2
+- 累计收录：110
 
 ### 搜索概况
-检索关键词覆盖：`ios mcp server agent`、`swift agent skill claude code`、`apple mcp server`、`ios automation agent swift`、`xcode agent skill`、`swiftui agent mcp skill stars:>50`、`topic:claude-code+topic:swift`、`trending swift` 等。
+检索关键词覆盖：`ios mcp server agent swift`、`apple agent skill swift stars:>50`、`swift mcp server`、`ios agent mcp`、`swift agent team claude code`、`xcode instruments mcp server`、`xcuitest mcp`、`trending swift` 等。
+
+⚠️ 搜索受限：**MiniMax 搜索 API 用量超限**，web_search 不可用。改为 web_fetch + GitHub REST API 方式抓取搜索结果。仅发现 2 款符合条件的 new entries，不足 5 个。
 
 ## 2026-07-01
 
