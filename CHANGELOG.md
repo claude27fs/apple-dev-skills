@@ -22,6 +22,24 @@
 
 ⚠️ 搜索受限：**MiniMax 搜索 API 用量超限**，web_search 不可用。改为 web_fetch + GitHub REST API 方式抓取搜索结果。仅发现 2 款符合条件的 new entries，不足 5 个。
 
+## 2026-07-08
+
+### 新收录
+- [kylehughes/the-unofficial-swift-concurrency-migration-skill](https://github.com/kylehughes/the-unofficial-swift-concurrency-migration-skill) - Stars: 54 ⭐ | Agent Skill | Swift Concurrency 迁移指南打包为 LLM Skill，覆盖 async/await、Actors、Task 组、Sendable 等并发原语，支持 Claude Code/Desktop 等多平台
+- [efremidze/swift-architecture-skill](https://github.com/efremidze/swift-architecture-skill) - Stars: 52 ⭐ | Agent Skill | Swift 架构设计与实现模式 Agent Skill，涵盖 VIPER、MVVM、TCA 等架构模式的最佳实践
+- [Brenonunesx/agent-pilot](https://github.com/Brenonunesx/agent-pilot) - Stars: 152 ⭐ | Agent Toolkit | AI Agent Toolkit for iOS & Android 设备控制，支持 iOS Simulator、XCUITest、MCP 集成，可用于移动端自动化测试
+- [Rahulec08/appium-mcp](https://github.com/Rahulec08/appium-mcp) - Stars: 63 ⭐ | MCP Server | AI-powered Appium MCP Server for iOS/Android 自动化，智能视觉元素检测与恢复，支持 Claude/Claude Code 等 AI Agent
+- [AppiumTestDistribution/AppClaw](https://github.com/AppiumTestDistribution/AppClaw) - Stars: 90 ⭐ | AI Agent | AI-powered mobile automation agent for iOS/Android，自然语言描述即可控制设备，LLM-agnostic，开源零遥测
+
+### 统计
+- 今日新增：5
+- 累计收录：115
+
+### 搜索概况
+检索关键词覆盖：`ios mcp server agent`、`swift agent skill`、`apple mcp server swift`、`topic:agent-skills topic:swift`、`ios simulator mcp`、`appstore connect mcp`、`swift agent framework`、`claude code skill apple` 等。
+
+⚠️ 搜索受限：**MiniMax 搜索 API 用量超限**，web_search 不可用。改为 GitHub REST API 方式抓取搜索结果。
+
 ## 2026-07-01
 
 ### 新收录
