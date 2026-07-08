@@ -1,5 +1,24 @@
 # Changelog
 
+## 2026-07-09
+
+### 新收录
+- [rorkai/app-store-connect-cli-skills](https://github.com/rorkai/app-store-connect-cli-skills) - Stars: 897 ⭐ | Agent Skill | App Store Connect 自动化技能集，通过 asc CLI 管理 iOS/macOS 应用发布全流程，覆盖 TestFlight、元数据管理、CI/CD 集成，支持 Claude Code/Codex/Cursor 等 AI Agent
+- [achiya-automation/safari-mcp](https://github.com/achiya-automation/safari-mcp) - Stars: 144 ⭐ | MCP Server | 原生 Safari 浏览器自动化 MCP Server，80 个工具通过 AppleScript 实现零开销浏览器控制，保持登录状态，CPU/内存占用比 Chrome DevTools MCP 低 40-60%，macOS 原生 AI Agent 浏览器方案
+- [heoblitz/Loupe](https://github.com/heoblitz/Loupe) - Stars: 97 ⭐ | Swift CLI (Agent Tool) | Swift CLI 工具，帮助 AI 编程 Agent 检查 Apple 平台应用的运行时 UI，支持 SwiftUI/UIKit 视图层级分析与实时状态抓取
+- [inceptyon-labs/gargantua](https://github.com/inceptyon-labs/gargantua) - Stars: 74 ⭐ | MCP Server | 原生 macOS 系统清理工具，YAML 驱动安全规则，基于 MLX 的本地 AI 可解释性，含 MCP Server 支持 Agent 控制清理工作流，Swift 实现
+- [incogbyte/iOS-reverse-engineering-claude-skill](https://github.com/incogbyte/iOS-reverse-engineering-claude-skill) - Stars: 55 ⭐ | Agent Skill | Claude Code 专用 iOS 逆向工程 Skill，支持提取、分析、逆向 iOS 应用二进制，覆盖安全审计与漏洞挖掘场景
+
+### 候选未收录（相似合并 / 不符合条件）
+- `Prisma-Labs-Dev/apple-skills`: 277⭐ — Apple 开发 Agent Skills 集合（与已收录的 `vabole/apple-skills` 261⭐ 类别相似，后者已收录，按规则仅保留 Stars 最多者；但 `vabole/apple-skills` 已为既有条目，不再替换）
+
+### 统计
+- 今日新增：5
+- 累计收录：120
+
+### 搜索概况
+检索关键词覆盖：`swift mcp server agent`、`topic:agent-skills topic:swift`、`topic:mcp-server topic:ios`、`ios agent skill claude code`、`macos agent skill mcp`、`swift agentic`、`apple agent skill` 等，通过 GitHub REST API 直接搜索。
+
 ## 2026-07-07
 
 ### 新收录
