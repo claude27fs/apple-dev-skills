@@ -1,5 +1,24 @@
 # Changelog
 
+## 2026-07-10
+
+### 新收录
+- [lycorp-jp/sim-use](https://github.com/lycorp-jp/sim-use) - Stars: 740 ⭐ | MCP/Agent Tool | iOS Simulator 与 Android 模拟器自动化工具，Swift 实现，让 AI Agent 拥有操作移动模拟器的"眼睛和手"，支持无障碍测试、UI 交互与截图
+- [alirezarezvani/claude-code-aso-skill](https://github.com/alirezarezvani/claude-code-aso-skill) - Stars: 395 ⭐ | Agent Skill | App Store 优化（ASO）自动化框架，Claude Code Skill 格式，包含专用 AEO 子 Agent 舰队处理规划、执行、报告，支持 iOS App Store 和 Google Play
+- [aduermael/wb](https://github.com/aduermael/wb) - Stars: 62 ⭐ | Agent Tool (CLI) | macOS 26+ 浏览器 CLI for AI Agent，Swift 实现，持久会话、紧凑 JSON、截图/点击/表单/JS eval，2 MB 以内轻量，类似 Safari 自动化 Agent 工具
+
+### 候选未收录（相似合并 / 不符合条件）
+- `bolivestilo/Homekit`: 66⭐ — HomeKit MCP 服务器（与已收录的 `omarshahine/HomeClaw` 150⭐ 类别相似，后者已收录，按规则仅保留 Stars 最多者）
+
+### 统计
+- 今日新增：3
+- 累计收录：123
+
+### 搜索概况
+检索关键词覆盖：`topic:agent-skills+topic:swift`、`topic:mcp-server+topic:ios`、`swift mcp server agent`、`ios simulator mcp`、`app store connect mcp`、`swift agent skill`、`swift mcp server`、`created:>2026-06-15 stars:>50` 等，通过 GitHub REST API 直接搜索。
+
+⚠️ 搜索受限：今日仅发现 3 款符合条件的新条目，Apple 平台 AI Agent Skills 生态中新项目产出速度放缓，大部分高星项目已被收录。
+
 ## 2026-07-09
 
 ### 新收录
