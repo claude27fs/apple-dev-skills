@@ -1,5 +1,25 @@
 # Changelog
 
+## 2026-07-11
+
+### 新收录
+- [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus) - Stars: 6,899 ⭐ | macOS Agent Harness | 原生 macOS AI Agent 运行平台，支持任意模型、持久化记忆、自主执行，纯 Swift 构建，让 AI Agent 直接在 macOS 上本地运行和操控应用
+- [ghostwright/ghost-os](https://github.com/ghostwright/ghost-os) - Stars: 1,576 ⭐ | macOS Agent Tool | 面向 AI Agent 的完整 macOS 计算机使用框架，自学习工作流，无需截图即可理解桌面状态，纯 Swift 实现
+- [baryhuang/mcp-remote-macos-use](https://github.com/baryhuang/mcp-remote-macos-use) - Stars: 487 ⭐ | MCP Server | 通用 macOS 远程 AI Agent 控制 MCP Server，无需额外 API Key 即可完全控制本地 Mac，支持截图、键盘、鼠标、文件操作等
+- [peakmojo/applescript-mcp](https://github.com/peakmojo/applescript-mcp) - Stars: 461 ⭐ | MCP Server | 执行 AppleScript 的 MCP Server，让 AI Agent 通过 AppleScript 完全控制 macOS 系统与应用，支持自动化任何 Mac 操作
+- [carterlasalle/mac_messages_mcp](https://github.com/carterlasalle/mac_messages_mcp) - Stars: 302 ⭐ | MCP Server | 通过 MCP 协议安全访问 iMessage 数据库，让 AI Agent 读取、搜索和分析 Mac 上的短信对话历史
+
+### 候选未收录（相似合并 / 不符合条件）
+- `patrickfreyer/apple-mail-mcp`: 168⭐ — Apple Mail MCP Server（与 `s-morgan-jeffries/apple-mail-fast-mcp` 93⭐ 类别相似，保留 Stars 最高者；但两者均非传统 Apple 开发相关，属邮件工具类，暂不收录）
+- `vgnshiyer/apple-books-mcp`: 52⭐ — Apple Books MCP Server（Stars 刚过门槛，但非苹果开发相关，属阅读工具类）
+
+### 统计
+- 今日新增：5
+- 累计收录：128
+
+### 搜索概况
+检索关键词覆盖：`topic:mcp-server topic:macos`、`topic:mcp-server topic:apple`、`topic:swift topic:mcp`、`topic:agent-skills topic:swift`、`macos agent mcp`、`apple mcp server` 等，通过 GitHub REST API 搜索。
+
 ## 2026-07-10
 
 ### 新收录
