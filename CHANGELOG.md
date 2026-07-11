@@ -1,5 +1,25 @@
 # Changelog
 
+## 2026-07-12
+
+### 新收录
+- [block/xcode-index-mcp](https://github.com/block/xcode-index-mcp) - Stars: 60 ⭐ | MCP Server | 让 AI Agent 访问 Xcode 索引的 MCP Server，由 Square/Block 开发，支持 AI 编程工具直接查询 Xcode 的项目索引与符号信息
+- [keremerkan/asc-screenshots](https://github.com/keremerkan/asc-screenshots) - Stars: 75 ⭐ | Agent Skill | AI Agent Skill，自动生成可直接上传 App Store 的 iPhone/iPad 截图，支持 asc-client 兼容格式导出
+
+### 候选未收录（相似合并 / 不符合条件）
+- `bolivestilo/Homekit`: 66⭐ — HomeKit MCP Server（与已收录的 `omarshahine/HomeClaw` 150⭐ 类别相似，后者已收录，按规则仅保留 Stars 最多者）
+- `vgnshiyer/apple-books-mcp`: 52⭐ — Apple Books MCP Server（非苹果开发相关，属阅读工具类，与 2026-07-11 判断一致）
+- `patrickfreyer/apple-mail-mcp`: 168⭐ — Apple Mail MCP Server（非苹果开发相关，属邮件工具类，与 2026-07-11 判断一致）
+
+### 统计
+- 今日新增：2
+- 累计收录：130
+
+### 搜索概况
+检索关键词覆盖：`topic:mcp-server+topic:ios`、`topic:agent-skills+topic:swift`、`topic:mcp-server+topic:macos`、`topic:agent-skills+topic:apple`、`swift+mcp+server+agent`、`ios+simulator+mcp+agent`、`apple+agent+skill+claude+code`、`xcode+mcp+agent`、`app+store+connect+mcp`、`macos+agent+mcp`、`swift+agent+skill`、`swift+apple+agent`、`ios+agent+mcp`、`claude+code+skill+ios+swift` 等，通过 GitHub REST API 搜索。
+
+⚠️ **搜索受限**：今日 GitHub 未认证 API 速率限制较早触发。Apple 平台 AI Agent Skills 生态中高星项目已基本被收录，新项目产出速度放缓。仅发现 2 款符合条件的新条目。另外，Apple 于 2026-07 在 Safari Technology Preview 247 中发布了官方 Safari MCP Server（16 个工具，DOM 检查/JS 执行/截图/网络分析/无障碍审计），但该功能内置于 Safari 而非独立 GitHub 仓库，故不收录。
+
 ## 2026-07-11
 
 ### 新收录
