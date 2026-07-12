@@ -1,5 +1,23 @@
 # Changelog
 
+## 2026-07-13
+
+### 新收录
+- [safaiyeh/app-store-review-skill](https://github.com/safaiyeh/app-store-review-skill) - Stars: 204 ⭐ | Agent Skill | AI Agent Skill，全面评估 iOS/macOS/tvOS/watchOS/visionOS 应用代码是否符合 Apple App Store Review Guidelines、HIG 和 App Privacy 规则，预测并预防 App Review 拒绝
+
+### 候选未收录（相似合并 / 不符合条件）
+- `devsemih/appstore-review-skill`: 50⭐ — App Store Review 检查 Skill（与 `safaiyeh/app-store-review-skill` 204⭐ 类别相似，按规则仅保留 Stars 最多者）
+- `zelentsov-dev/asc-mcp`: 49⭐ — App Store Connect MCP Server（Stars 不足 50 门槛；且与已收录的 `JoshuaRileyDev/app-store-connect-mcp-server` 324⭐ 类别相似）
+
+### 统计
+- 今日新增：1
+- 累计收录：131
+
+### 搜索概况
+检索关键词覆盖：`topic:mcp-server+topic:ios`、`topic:agent-skills+topic:swift`、`topic:mcp-server+topic:macos`、`swift+mcp+server+agent`、`ios+agent+skill+claude+code`、`apple+agent+skill`、`xcode+mcp+agent`、`app+store+connect+mcp`、`macos+agent+mcp`、`swift+agent+skill` 等，通过 GitHub REST API + SerpAPI Google 搜索。
+
+⚠️ **搜索受限**：今日 GitHub 未认证 API 速率限制严重，DuckDuckGo 也频繁触发反爬。Apple 平台 AI Agent Skills 生态中高星项目已基本被收录，新项目产出速度放缓。仅发现 1 款符合条件的新条目。Apple 于 WWDC 2026 已发布内置 MCP 支持的 Xcode 27，大量 Apple 开发 Agent 能力正在被官方工具吸收，独立仓库产出减少。
+
 ## 2026-07-12
 
 ### 新收录
