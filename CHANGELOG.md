@@ -1,5 +1,22 @@
 # Changelog
 
+## 2026-07-14
+
+### 新收录
+- [repoprompt/repoprompt-ce](https://github.com/repoprompt/repoprompt-ce) - Stars: 798 ⭐ | macOS App + MCP CLI | 原生 macOS 上下文工程应用，为 AI 编程 Agent 提供上下文管理，内置 MCP CLI 支持 Claude Code/Codex/Cursor 等直接调用，纯 Swift 实现
+- [a7t-ai/poirot](https://github.com/a7t-ai/poirot) - Stars: 197 ⭐ | macOS App + MCP | 原生 macOS Claude Code 伴侣应用，支持浏览会话、探索 diff、重新运行命令，内置 MCP 集成，Swift/SwiftUI 原生实现
+- [CursorTouch/MacOS-MCP](https://github.com/CursorTouch/MacOS-MCP) - Stars: 111 ⭐ | MCP Server | 轻量级 macOS 计算机使用 MCP Server，让 AI Agent 控制 macOS 桌面操作（截图、键盘、鼠标、文件等），Python 实现
+- [alterhq/openpets](https://github.com/alterhq/openpets) - Stars: 80 ⭐ | macOS App + MCP/CLI | 共享 macOS 桌面宠物，面向 AI Agent 和应用，支持 MCP/CLI 控制与 Codex Pets 支持，Swift 实现
+
+### 统计
+- 今日新增：4
+- 累计收录：135
+
+### 搜索概况
+检索关键词覆盖：`topic:mcp-server+topic:ios`、`topic:agent-skills+topic:swift`、`topic:mcp-server+topic:macos`、`topic:swift+topic:mcp`、`ios+mcp+agent`、`swift+agent+skill`、`macos+swift+mcp`、`apple+agent+skill` 等，通过 GitHub REST API 搜索。
+
+⚠️ **搜索受限**：今日仅发现 4 款符合条件的新条目（Stars > 50，Apple 平台开发相关，AI Agent Skill/MCP Server）。Apple 平台 AI Agent Skills 生态中新项目产出速度持续放缓，大部分高星项目已被收录。
+
 ## 2026-07-13
 
 ### 新收录
