@@ -1,5 +1,25 @@
 # Changelog
 
+## 2026-07-17
+
+### 新收录
+（今日无符合条件的发现 — GitHub 搜索结果中无新的 Apple 平台 AI Agent Skills 达到 Stars >50 门槛，且不在现有列表中）
+
+### 统计
+- 今日新增：0
+- 累计收录：135
+
+### 搜索概况
+检索关键词覆盖：`topic:mcp-server+topic:ios`、`topic:agent-skills+topic:swift`、`topic:mcp-server+topic:macos`、`topic:mcp-server+topic:swift`、`topic:agent-skills+topic:apple`、`topic:agent-skills+topic:ios`、`ios+mcp+agent`、`swift+agent+skill`、`macos+agent+skill`、`claude+code+skill+ios+swift`、`xcode+mcp+agent`、`app+store+connect+mcp`、`ios+simulator+agent+skill`、`swift+testing+agent+skill`、`language:swift+created:>2026-07-12` 等，通过 GitHub REST API 搜索。
+
+⚠️ **搜索受限**：今日未发现任何符合条件的新条目（Stars > 50，Apple 平台开发相关，AI Agent Skill/MCP Server）。Apple 平台 AI Agent Skills 生态中高星项目已基本被收录，近 3 天内无新项目达到 >50⭐ 门槛。
+
+候选但未收录（相似合并 / 不符合条件）：
+- `robzilla1738/skillz-macos`: 128⭐ — macOS AI Skills 管理应用（与已收录的 `Shpigford/chops` 1448⭐ 类别相似，按规则仅保留 Stars 最多者）
+- `devsemih/appstore-review-skill`: 74⭐ — App Store Review 检查 Skill（与已收录的 `safaiyeh/app-store-review-skill` 204⭐ 类别相似，按规则仅保留 Stars 最多者）
+- `JimLiu/baocut`: 128⭐ — macOS 视频剪辑 Agent Skill（视频编辑工具，非 Apple 平台开发相关）
+- `getgantry/gantry`: 51⭐ — macOS Docker 管理 MCP 应用（DevOps 工具，非 Apple 平台开发相关）
+
 ## 2026-07-15
 
 ### 新收录
