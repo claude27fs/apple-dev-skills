@@ -1,5 +1,25 @@
 # Changelog
 
+## 2026-07-18
+
+### 新收录
+- [Livsy90/iOS-Performance-Agent-Skills](https://github.com/Livsy90/iOS-Performance-Agent-Skills) - Stars: 74 ⭐ | Agent Skills | iOS 应用性能审查、诊断与优化 Agent Skills 集合，帮助 AI Agent 检测和修复 iOS 应用的性能问题
+
+### 统计
+- 今日新增：1
+- 累计收录：136
+
+### 搜索概况
+检索关键词覆盖：`topic:mcp-server+topic:ios`、`topic:agent-skills+topic:swift`、`topic:mcp-server+topic:macos`、`swift+mcp+agent`、`ios+agent+skill`、`apple+agent+skill`、`swift+testing+agent+skill`、`swiftui+agent+skill`、`claude+code+skill+ios`、`mcp+server+apple`、`xcode+mcp+agent`、`ios+simulator+mcp`、`app+store+connect+mcp`、`swift+mcp+created:>2026-07-10` 等，通过 GitHub REST API 搜索。
+
+⚠️ **搜索受限**：今日仅发现 1 款符合条件的新条目（Stars > 50，Apple 平台开发相关，AI Agent Skill/MCP Server）。Apple 平台 AI Agent Skills 生态中新项目产出速度持续放缓，近 3 天内仅 1 个新项目达到门槛。
+
+候选但未收录（相似合并 / 不符合条件）：
+- `mediar-ai/mcp-server-macos-use`: 341⭐ — macOS 控制 MCP Server，Swift 实现，通过 Accessibility API 操控 macOS 应用（与已收录的 `baryhuang/mcp-remote-macos-use` 487⭐ 类别相似，按规则仅保留 Stars 最多者）
+- `appreply-co/mcp-appstore`: 62⭐ — App Store ASO MCP Server（与已收录的 `Eronred/aso-skills` 1,464⭐ 类别相似，按规则仅保留 Stars 最多者）
+- `sweetrb/apple-notes-mcp`: 69⭐ — Apple Notes MCP Server（非 Apple 开发相关，属笔记工具类）
+- `awesome-skills/mobile-app-design`: 53⭐ — 移动端 UI/UX 设计 Skill（通用移动端设计，非专门 Apple 平台开发）
+
 ## 2026-07-17
 
 ### 新收录
