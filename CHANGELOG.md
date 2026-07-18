@@ -1,5 +1,23 @@
 # Changelog
 
+## 2026-07-19
+
+### 新收录
+（今日无发现 — GitHub 搜索结果中无新的 Apple 平台 AI Agent Skills 达到 Stars >50 门槛，且不在现有列表中）
+
+### 统计
+- 今日新增：0
+- 累计收录：136
+
+### 搜索概况
+检索关键词覆盖：`topic:mcp+topic:ios`、`topic:agent-skills+topic:swift`、`topic:mcp+topic:macos`、`topic:mcp+topic:swift`、`topic:mcp+topic:apple`、`swift+mcp+agent`、`ios+agent+skill+claude+code`、`macos+agent+skill+mcp`、`xcode+agent+skill+mcp`、`swiftui+agent+skill`、`swift+skill+claude+code`、`ios+simulator+mcp`、`app+store+connect+mcp` 等，通过 GitHub REST API 搜索。
+
+⚠️ **搜索受限**：今日未发现任何符合条件的新条目（Stars > 50，Apple 平台开发相关，AI Agent Skill/MCP Server）。Apple 平台 AI Agent Skills 生态中新项目产出速度持续放缓，连续 4 天（7/16-7/19）仅 1 个新项目达到门槛。近期新项目多为低星（<50⭐）或非 Apple 开发相关（如视频编辑工具、记账 App、健康 App 等）。
+
+候选但未收录（不符合条件）：
+- `aka-kika/hig-mcp`: 17⭐ — Apple HIG 设计令牌 MCP Server（Stars 不足 50 门槛）
+- `mgcrea/mcp-appstore-connect`: 0⭐ — App Store Connect API MCP Server（新项目，Stars 不足）
+
 ## 2026-07-18
 
 ### 新收录
