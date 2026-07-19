@@ -1,5 +1,27 @@
 # Changelog
 
+## 2026-07-20
+
+### 新收录
+（今日无发现 — GitHub 搜索结果中无新的 Apple 平台 AI Agent Skills 达到 Stars >50 门槛，且不在现有列表中）
+
+### 统计
+- 今日新增：0
+- 累计收录：136
+
+### 搜索概况
+检索关键词覆盖：`topic:mcp-server+topic:ios`、`topic:agent-skills+topic:swift`、`topic:mcp-server+topic:macos`、`topic:mcp-server+topic:swift`、`topic:agent-skills+topic:apple`、`swift+mcp+agent+skill`、`ios+mcp+server`、`apple+agent+skill`、`macos+mcp+server`、`xcode+mcp`、`ios+simulator+mcp`、`app+store+connect+mcp`、`swift+agent+skill+created:>2026-07-12`、`swift+mcp+created:>2026-07-12`、`ios+mcp+created:>2026-07-12`、`created:2026-07-19..2026-07-20` 等，通过 GitHub REST API 搜索。
+
+⚠️ **搜索受限**：今日未发现任何符合条件的新条目（Stars > 50，Apple 平台开发相关，AI Agent Skill/MCP Server）。Apple 平台 AI Agent Skills 生态中新项目产出速度持续放缓，连续 5 天（7/16-7/20）仅 1 个新项目达到门槛。Xcode 27 内置 MCP + Agent Skills 的能力吸收效应持续，独立仓库的新项目产出枯竭。
+
+候选但未收录（不符合条件）：
+- `aka-kika/hig-mcp`: 23⭐ (↑ 从 17⭐) — Apple HIG 设计令牌 MCP Server（Stars 不足 50 门槛）
+- `kirilurbonas/swift-mcp`: 0⭐ — Xcode + iOS Simulator MCP Server（新项目，Stars 不足）
+- `jcanizalez/macos-mcp-server`: 0⭐ — 原生 macOS MCP Server（新项目，Stars 不足）
+- `0xatrilla/Apple-MCP`: 3⭐ — macOS MCP Server + Setup App（Stars 不足）
+- `lastlookdev/ios-mcp-server`: 1⭐ — iOS Simulator MCP Server（Stars 不足）
+- `onmyway133/swift-mcp`: 2⭐ — Swift/SwiftUI MCP Server（Stars 不足）
+
 ## 2026-07-19
 
 ### 新收录
