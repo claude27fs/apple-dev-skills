@@ -1,5 +1,25 @@
 # Changelog
 
+## 2026-07-21
+
+### 新收录
+（今日无发现 — GitHub 搜索结果中无新的 Apple 平台 AI Agent Skills 达到 Stars >50 门槛，且不在现有列表中）
+
+### 统计
+- 今日新增：0
+- 累计收录：136
+
+### 搜索概况
+检索关键词覆盖：`topic:mcp-server+topic:ios`、`topic:agent-skills+topic:swift`、`topic:mcp-server+topic:macos`、`swift+mcp+created:>2026-07-12`、`ios+mcp+agent+created:>2026-07-12`、`xcode+mcp+agent`、`apple+mcp+server`、`app+store+connect+mcp`、`swiftui+agent+skill`、`simulator+mcp`、`macos+agent+mcp`、`ios+development+mcp`、`language:swift+created:>2026-07-15`、`agent+skill+apple`、`swift+mcp+pushed:>2026-07-14` 等，通过 GitHub REST API 搜索。
+
+⚠️ **搜索受限**：今日未发现任何符合条件的新条目（Stars > 50，Apple 平台开发相关，AI Agent Skill/MCP Server）。Apple 平台 AI Agent Skills 生态中新项目产出速度持续放缓，连续 6 天（7/16-7/21）仅 1 个新项目达到门槛。Xcode 27 内置 MCP + Agent Skills 的能力吸收效应持续，独立仓库的新项目产出枯竭。
+
+候选但未收录（不符合条件）：
+- `aka-kika/hig-mcp`: 28⭐ (↑ 从 23⭐) — Apple HIG 设计令牌 MCP Server（Stars 不足 50 门槛）
+- `devsemih/appstore-review-skill`: 78⭐ — App Store Review 检查 Skill（与已收录的 `safaiyeh/app-store-review-skill` 204⭐ 类别相似，按规则仅保留 Stars 最多者）
+- `zelentsov-dev/asc-mcp`: 50⭐ — App Store Connect MCP Server（与已收录的 `JoshuaRileyDev/app-store-connect-mcp-server` 324⭐ 类别相似，按规则仅保留 Stars 最多者）
+- `Compiler-Inc/SwiftMCP`: 50⭐ — Swift MCP 框架（无描述、无 topics、最后更新 2025-03-26，且已有 `Cocoanetics/SwiftMCP` 159⭐ 和 `modelcontextprotocol/swift-sdk` 1,395⭐ 收录）
+
 ## 2026-07-20
 
 ### 新收录
