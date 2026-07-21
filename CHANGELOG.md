@@ -1,5 +1,27 @@
 # Changelog
 
+## 2026-07-22
+
+### 新收录
+（今日无发现 — GitHub 搜索结果中无新的 Apple 平台 AI Agent Skills 达到 Stars >50 门槛，且不在现有列表中）
+
+### 统计
+- 今日新增：0
+- 累计收录：136
+
+### 搜索概况
+检索关键词覆盖：`topic:mcp-server+topic:ios`、`topic:agent-skills+topic:swift`、`topic:mcp-server+topic:macos`、`topic:mcp-server+language:swift`、`topic:agent-skills+language:swift`、`ios+mcp+agent`、`swift+agent+skill`、`macos+agent+skill+mcp`、`apple+mcp+agent`、`xcode+mcp+agent`、`app+store+connect+mcp`、`swift+mcp+server+created:>2026-07-15`、`swift+skill+claude+code`、`swiftui+agent+skill+mcp` 等，通过 GitHub REST API 搜索。
+
+⚠️ **搜索受限**：今日未发现任何符合条件的新条目（Stars > 50，Apple 平台开发相关，AI Agent Skill/MCP Server）。Apple 平台 AI Agent Skills 生态中新项目产出速度持续放缓，连续 7 天（7/16-7/22）仅 1 个新项目达到门槛。Xcode 27 内置 MCP + Agent Skills 的能力吸收效应持续，独立仓库的新项目产出枯竭。
+
+候选但未收录（不符合条件）：
+- `aka-kika/hig-mcp`: 30⭐ (↑ 从 28⭐) — Apple HIG 设计令牌 MCP Server（Stars 不足 50 门槛）
+- `zelentsov-dev/asc-mcp`: 51⭐ — App Store Connect MCP Server（与已收录的 `JoshuaRileyDev/app-store-connect-mcp-server` 324⭐ 类别相似，按规则仅保留 Stars 最多者）
+- `sun6762/objc-ios-maintenance`: 21⭐ — Objective-C iOS 维护 Skill（Stars 不足 50 门槛，新项目 2026-07-19 创建）
+- `deverman/FocusRelayMCP`: 38⭐ — OmniFocus MCP Server（非 Apple 开发相关，属生产力工具类）
+- `chsistrying/swift-ship-skills`: 0⭐ — Swift/macOS 打包发布 Skill（新项目，Stars 不足）
+- `tijs/cupertino-skill`: 0⭐ — `mihaelamj/cupertino` 的 Agent Skill fork（新项目，Stars 不足，且已收录原版）
+
 ## 2026-07-21
 
 ### 新收录
