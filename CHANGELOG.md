@@ -1,5 +1,28 @@
 # Changelog
 
+## 2026-07-24
+
+### 新收录
+（今日无发现 — GitHub 搜索结果中无新的 Apple 平台 AI Agent Skills 达到 Stars >50 门槛，且不在现有列表中）
+
+### 统计
+- 今日新增：0
+- 累计收录：136
+
+### 搜索概况
+检索关键词覆盖：`topic:mcp-server+topic:ios`、`topic:agent-skills+topic:swift`、`topic:agent-skills+topic:apple`、`topic:mcp-server+topic:macos`、`swift+mcp+server+stars:>50`、`swift+agent+skill+stars:>50`、`ios+mcp+agent+stars:>50`、`apple+agent+skill+stars:>50`、`swift+mcp+stars:>50+created:>2026-07-10`、`ios+mcp+stars:>50+created:>2026-07-10`、`macos+agent+skill+stars:>50+created:>2026-07-01`、`swiftui+agent+skill+stars:>50+created:>2026-07-01`、`language:swift+mcp+stars:>50+created:>2026-07-01`、`xcode+agent+skill+mcp+stars:>50`、`app+store+connect+mcp+stars:>50+created:>2026-07-01`、`swift+mcp+server+pushed:>2026-07-16+stars:>50`、`apple+mcp+server+agent+stars:>50+pushed:>2026-07-16`、`ios+agent+skill+stars:>50+pushed:>2026-07-10`、`swift+apple+agent+skill+stars:>50+pushed:>2026-07-16`、`apple+mcp+stars:>50+created:>2026-07-01` 等，通过 GitHub REST API 直接搜索。
+
+⚠️ **搜索受限**：今日未发现任何符合条件的新条目（Stars > 50，Apple 平台开发相关，AI Agent Skill/MCP Server）。Apple 平台 AI Agent Skills 生态中新项目产出速度持续放缓，连续 9 天（7/16-7/24）仅 1 个新项目达到门槛。Xcode 27 内置 MCP + Agent Skills 的能力吸收效应持续，独立仓库的新项目产出枯竭。
+
+候选但未收录（不符合条件）：
+- `aka-kika/hig-mcp`: 31⭐ — Apple HIG 设计令牌 MCP Server（Stars 不足 50 门槛）
+- `devsemih/appstore-review-skill`: 79⭐ — App Store Review 检查 Skill（与已收录的 `safaiyeh/app-store-review-skill` 204⭐ 类别相似，按规则仅保留 Stars 最多者）
+- `zelentsov-dev/asc-mcp`: 51⭐ — App Store Connect MCP Server（与已收录的 `JoshuaRileyDev/app-store-connect-mcp-server` 324⭐ 类别相似，按规则仅保留 Stars 最多者）
+- `attribloom/attribloom-mcp`: 0⭐ — StoreKit 2 联盟营销归因 MCP Server（Stars 不足 50 门槛，新项目 2026-07-21 创建）
+- `liirAliu/Homekit`: 69⭐ — HomeKit MCP Server（非 Apple 开发相关，属智能家居控制类）
+- `ai4s-research/open-science`: 922⭐ — AI 研究工作台（跨平台桌面应用，非 Apple 平台开发相关）
+- `JimLiu/baocut`: 277⭐ — macOS 视频剪辑 Agent Skill（视频编辑工具，非 Apple 平台开发相关）
+
 ## 2026-07-23
 
 ### 新收录
