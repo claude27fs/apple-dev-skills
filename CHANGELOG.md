@@ -1,5 +1,25 @@
 # Changelog
 
+## 2026-07-26
+
+### 新收录
+- [uzairansaruzi/hermex](https://github.com/uzairansaruzi/hermex) - Stars: 920 ⭐ | iOS App (Swift) | 原生 iPhone 应用，为 Hermes AI Agent 提供移动端原生客户端，纯 Swift/SwiftUI 实现，支持自托管部署
+- [LeoZhaorx/openclaw-desk-pet](https://github.com/LeoZhaorx/openclaw-desk-pet) - Stars: 55 ⭐ | macOS App (Swift) | 原生 macOS 桌面宠物，可视化 OpenClaw Agent 活动状态，纯 Swift 实现，本地优先
+
+### 统计
+- 今日新增：2
+- 累计收录：139
+
+### 搜索概况
+检索关键词覆盖：`topic:mcp-server+topic:ios+created:>2026-07-22`、`topic:agent-skills+topic:swift+created:>2026-07-22`、`topic:mcp-server+topic:macos+created:>2026-07-22`、`swift+mcp+stars:>50+created:>2026-07-15`、`ios+agent+skill+stars:>50+created:>2026-07-10`、`apple+mcp+stars:>50+created:>2026-07-10`、`swift+agent+stars:>50+created:>2026-06-25`、`created:>2026-07-24+stars:>50`、`language:swift+topic:agent-skills+stars:>50+created:>2026-07-01`、`swiftui+agent+stars:>50+created:>2026-07-01`、`ios+mcp+agent+stars:>50+created:>2026-07-01`、`xcode+agent+stars:>50+created:>2026-07-01`、`app+store+mcp+stars:>50+created:>2026-07-01`、`swift+testing+agent+skill+stars:>50+created:>2026-07-01` 等，通过 GitHub REST API 搜索。
+
+⚠️ **搜索受限**：今日仅发现 2 款符合条件的新条目（Stars > 50，Apple 平台开发相关，AI Agent Skill/MCP Server）。Apple 平台 AI Agent Skills 生态中新项目产出速度持续放缓，连续 11 天（7/16-7/26）仅 3 个新项目达到门槛。Xcode 27 内置 MCP + Agent Skills 的能力吸收效应持续，独立仓库的新项目产出枯竭。
+
+候选但未收录（不符合条件）：
+- `SohrabZ/liquid-glass-skills`: 0⭐ — iOS 26 Liquid Glass UI Agent Skills（新项目，Stars 不足）
+- `uskan/uskan-mcp`: 0⭐ — App Store/Google Play 发布 MCP Server（新项目，Stars 不足）
+- `stickerdaniel/browserjack`: 2⭐ — macOS 浏览器桥接 MCP（非 Apple 开发相关，Stars 不足）
+
 ## 2026-07-25
 
 ### 新收录
