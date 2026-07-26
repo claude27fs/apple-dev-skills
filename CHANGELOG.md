@@ -1,5 +1,26 @@
 # Changelog
 
+## 2026-07-27
+
+### 新收录
+- [sun6762/objc-ios-maintenance](https://github.com/sun6762/objc-ios-maintenance) - Stars: 56 ⭐ | Agent Skill | Objective-C iOS 维护 Skill，面向遗留 UIKit 应用的审查、重构、调试和安全编码，覆盖 ARC 所有权、retain cycle、KVO/KVC、Swift 互操作、性能优化、崩溃预防和 UIKit 架构
+
+### 统计
+- 今日新增：1
+- 累计收录：140
+
+### 搜索概况
+检索关键词覆盖：`topic:mcp-server+topic:ios+created:>2026-07-20`、`topic:agent-skills+topic:swift+created:>2026-07-20`、`topic:mcp-server+topic:macos+created:>2026-07-20`、`swift+mcp+server+created:>2026-07-15`、`ios+agent+skill+mcp+created:>2026-07-15`、`apple+mcp+agent+created:>2026-07-14`、`swift+agent+skill+stars:>50+pushed:>2026-07-24`、`ios+mcp+stars:>50+pushed:>2026-07-24`、`macos+agent+skill+mcp+stars:>50+pushed:>2026-07-20`、`xcode+mcp+agent+stars:>50+pushed:>2026-07-15`、`language:swift+agent+skill+stars:>50+created:>2026-07-01`、`app+store+connect+mcp+agent+stars:>50+pushed:>2026-07-15` 等，通过 GitHub REST API 搜索。
+
+⚠️ **搜索受限**：今日仅发现 1 款符合条件的新条目（Stars > 50，Apple 平台开发相关，AI Agent Skill/MCP Server）。Apple 平台 AI Agent Skills 生态中新项目产出速度持续枯竭，连续 12 天（7/16-7/27）仅 4 个新项目达到门槛。Xcode 27 内置 MCP + Agent Skills 的能力吸收效应持续，独立仓库的新项目产出极少。
+
+候选但未收录（不符合条件）：
+- `aka-kika/hig-mcp`: 33⭐ — Apple HIG 设计令牌 MCP Server（Stars 不足 50 门槛）
+- `devsemih/appstore-review-skill`: 82⭐ — App Store Review 检查 Skill（与已收录的 `safaiyeh/app-store-review-skill` 204⭐ 类别相似，按规则仅保留 Stars 最多者）
+- `zelentsov-dev/asc-mcp`: 51⭐ — App Store Connect MCP Server（与已收录的 `JoshuaRileyDev/app-store-connect-mcp-server` 324⭐ 类别相似，按规则仅保留 Stars 最多者）
+- `shirenchuang/agentbro`: 180⭐ — macOS Dynamic Island for AI coding agents（Rust/Tauri 构建，属 AI Agent 管理工具，非 Apple 平台开发相关）
+- `SohrabZ/liquid-glass-skills`: 0⭐ — iOS 26 Liquid Glass UI Agent Skills（新项目，Stars 不足）
+
 ## 2026-07-26
 
 ### 新收录
