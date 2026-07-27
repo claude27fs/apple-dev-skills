@@ -1,5 +1,25 @@
 # Changelog
 
+## 2026-07-28
+
+### 新收录
+（今日无发现 — GitHub 搜索结果中无新的 Apple 平台 AI Agent Skills 达到 Stars >50 门槛，且不在现有列表中）
+
+### 统计
+- 今日新增：0
+- 累计收录：140
+
+### 搜索概况
+检索关键词覆盖：`topic:mcp-server+topic:ios+created:>2026-07-20`、`topic:agent-skills+topic:swift+created:>2026-07-20`、`topic:mcp-server+topic:macos+created:>2026-07-20`、`swift+mcp+stars:>50+pushed:>2026-07-24`、`ios+mcp+stars:>50+pushed:>2026-07-24`、`macos+agent+skill+mcp+stars:>50+pushed:>2026-07-20`、`xcode+agent+skill+mcp+stars:>50+pushed:>2026-07-20`、`app+store+connect+mcp+agent+stars:>50+pushed:>2026-07-15`、`created:>2026-07-26+stars:>30+topic:mcp-server`、`created:>2026-07-26+stars:>30+topic:agent-skills` 等，通过 GitHub REST API 搜索。
+
+⚠️ **搜索受限**：今日未发现任何符合条件的新条目（Stars > 50，Apple 平台开发相关，AI Agent Skill/MCP Server）。Apple 平台 AI Agent Skills 生态中新项目产出速度持续枯竭，连续 13 天（7/16-7/28）仅 4 个新项目达到门槛。Xcode 27 内置 MCP + Agent Skills 的能力吸收效应持续，独立仓库的新项目产出极少。
+
+候选但未收录（不符合条件）：
+- `blitzdotdev/iPhone-mcp`: 85⭐ — iPhone MCP Server（与已收录的 `mobile-next/mobile-mcp` 4,986⭐ 类别相似，按规则仅保留 Stars 最多者）
+- `joshrutkowski/applescript-mcp`: 393⭐ — AppleScript MCP Server（与已收录的 `peakmojo/applescript-mcp` 461⭐ 类别相似，按规则仅保留 Stars 最多者）
+- `aka-kika/hig-mcp`: 34⭐ — Apple HIG 设计令牌 MCP Server（Stars 不足 50 门槛）
+- `SohrabZ/liquid-glass-skills`: 0⭐ — iOS 26 Liquid Glass UI Agent Skills（新项目，Stars 不足）
+
 ## 2026-07-27
 
 ### 新收录
