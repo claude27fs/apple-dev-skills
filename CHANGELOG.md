@@ -1,5 +1,25 @@
 # Changelog
 
+## 2026-07-29
+
+### 新收录
+（今日无发现 — GitHub 搜索结果中无新的 Apple 平台 AI Agent Skills 达到 Stars >50 门槛，且不在现有列表中）
+
+### 统计
+- 今日新增：0
+- 累计收录：140
+
+### 搜索概况
+检索关键词覆盖：`topic:mcp-server+topic:ios+created:>2026-07-25`、`topic:agent-skills+topic:swift+created:>2026-07-25`、`topic:mcp-server+topic:macos+created:>2026-07-25`、`swift+mcp+agent+stars:>50+pushed:>2026-07-25`、`ios+agent+skill+mcp+stars:>50+pushed:>2026-07-25`、`macos+agent+skill+mcp+stars:>50+pushed:>2026-07-25`、`xcode+agent+skill+mcp+stars:>50+pushed:>2026-07-20`、`app+store+connect+mcp+agent+stars:>50+pushed:>2026-07-15`、`swiftui+agent+skill+stars:>50+pushed:>2026-07-25`、`language:swift+agent+skill+stars:>50+created:>2026-07-20`、`created:>2026-07-26+stars:>50+topic:mcp-server`、`created:>2026-07-26+stars:>50+topic:agent-skills`、`swift+mcp+created:>2026-07-20`、`ios+mcp+agent+created:>2026-07-20`、`apple+mcp+agent+created:>2026-07-20`、`created:>2026-07-25+stars:>30+topic:ios`、`created:>2026-07-25+stars:>30+topic:swift`、`created:>2026-07-25+stars:>30+topic:macos` 等，通过 GitHub REST API 搜索。
+
+⚠️ **搜索受限**：今日未发现任何符合条件的新条目（Stars > 50，Apple 平台开发相关，AI Agent Skill/MCP Server）。Apple 平台 AI Agent Skills 生态中新项目产出速度持续枯竭，连续 14 天（7/16-7/29）仅 4 个新项目达到门槛。Xcode 27 内置 MCP + Agent Skills 的能力吸收效应持续，独立仓库的新项目产出极少。
+
+候选但未收录（不符合条件）：
+- `sun6762/objc-ios-maintenance`: 77⭐ (↑ 从 56⭐) — Objective-C iOS 维护 Skill（已收录于 2026-07-27，Stars 增长）
+- `efremidze/swift-architecture-skill`: 59⭐ (↑ 从 52⭐) — Swift 架构设计 Skill（已收录于 2026-07-08，Stars 增长）
+- `SohrabZ/liquid-glass-skills`: 0⭐ — iOS 26 Liquid Glass UI Agent Skills（新项目，Stars 不足）
+- `l0cka/kitroom`: 0⭐ — macOS 原生 Agent Skills 管理控制中心（新项目，Stars 不足）
+
 ## 2026-07-28
 
 ### 新收录
