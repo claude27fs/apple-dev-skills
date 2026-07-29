@@ -1,5 +1,32 @@
 # Changelog
 
+## 2026-07-30
+
+### 新收录
+（今日无发现 — GitHub 搜索结果中无新的 Apple 平台 AI Agent Skills 达到 Stars >50 门槛，且不在现有列表中）
+
+### 统计
+- 今日新增：0
+- 累计收录：140
+
+### 搜索概况
+检索关键词覆盖：`topic:mcp-server+topic:ios+created:>2026-07-25`、`topic:agent-skills+topic:swift+created:>2026-07-25`、`topic:mcp-server+topic:macos+created:>2026-07-25`、`swift+mcp+agent+created:>2026-07-25`、`ios+agent+skill+mcp+created:>2026-07-22`、`apple+agent+skill+mcp+created:>2026-07-22`、`swift+mcp+stars:>50+pushed:>2026-07-25`、`ios+mcp+agent+stars:>50+pushed:>2026-07-22`、`language:swift+agent+skill+stars:>50+created:>2026-07-15`、`xcode+agent+skill+mcp+stars:>50+created:>2026-07-15`、`app+store+connect+mcp+agent+stars:>50+created:>2026-07-10`、`swiftui+agent+skill+stars:>50+created:>2026-07-15`、`created:>2026-07-22+stars:>50+topic:mcp-server`、`created:>2026-07-22+stars:>50+topic:agent-skills`、`created:>2026-07-22+stars:>50+topic:swift`、`created:>2026-07-22+stars:>50+topic:ios`、`created:>2026-07-22+stars:>40+topic:mcp` 等，通过 GitHub REST API 搜索。
+
+⚠️ **搜索受限**：今日未发现任何符合条件的新条目（Stars > 50，Apple 平台开发相关，AI Agent Skill/MCP Server）。Apple 平台 AI Agent Skills 生态中新项目产出速度持续枯竭，连续 15 天（7/16-7/30）仅 4 个新项目达到门槛。Xcode 27 内置 MCP + Agent Skills 的能力吸收效应持续，独立仓库的新项目产出极少。
+
+候选但未收录（不符合条件）：
+- `sun6762/objc-ios-maintenance`: 91⭐ (↑ 从 77⭐) — Objective-C iOS 维护 Skill（已收录于 2026-07-27，Stars 增长）
+- `efremidze/swift-architecture-skill`: 59⭐ (↑ 从 52⭐) — Swift 架构设计 Skill（已收录于 2026-07-08，Stars 增长）
+- `Livsy90/iOS-Performance-Agent-Skills`: 96⭐ (↑ 从 74⭐) — iOS 性能审查 Agent Skills（已收录于 2026-07-18，Stars 增长）
+- `keremerkan/asc-screenshots`: 76⭐ (↑ 从 75⭐) — App Store 截图生成 Skill（已收录于 2026-07-12，Stars 增长）
+- `aka-kika/hig-mcp`: 34⭐ (↑ 从 33⭐) — Apple HIG 设计令牌 MCP Server（Stars 不足 50 门槛）
+- `zelentsov-dev/asc-mcp`: 52⭐ — App Store Connect MCP Server（与已收录的 `JoshuaRileyDev/app-store-connect-mcp-server` 324⭐ 类别相似，按规则仅保留 Stars 最多者）
+- `devsemih/appstore-review-skill`: 82⭐ — App Store Review 检查 Skill（与已收录的 `safaiyeh/app-store-review-skill` 204⭐ 类别相似，按规则仅保留 Stars 最多者）
+- `jo-duchan/tapflow`: 260⭐ — iOS/Android 模拟器流式传输（含 MCP 集成，但属 QA 团队协作工具，非 Apple 平台开发 AI Agent Skill）
+- `m1ng-li/mac-thermalright-ai-monitor`: 53⭐ — macOS 系统监控 for Thermalright LCD（硬件监控工具，非 Apple 平台开发 AI Agent Skill）
+- `SohrabZ/liquid-glass-skills`: 0⭐ — iOS 26 Liquid Glass UI Agent Skills（新项目，Stars 不足）
+- `l0cka/kitroom`: 0⭐ — macOS 原生 Agent Skills 管理控制中心（新项目，Stars 不足）
+
 ## 2026-07-29
 
 ### 新收录
