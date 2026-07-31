@@ -1,5 +1,29 @@
 # Changelog
 
+## 2026-08-01
+
+### 新收录
+- [masterofthechaos/ProxyPilot-public](https://github.com/masterofthechaos/ProxyPilot-public) - Stars: 52 ⭐ | MCP + Agent Tool | Swift 实现的 Xcode Agent Mode 模型代理工具，让 AI Agent 在 Xcode 27 中切换任意 AI 模型而不断线，支持本地模型（Ollama/LM Studio）和云端路由，包含 GUI、CLI 和十多个 MCP 工具，带可审计遥测数据
+
+### 统计
+- 今日新增：1
+- 累计收录：141
+
+### 搜索概况
+检索关键词覆盖：`topic:mcp-server+topic:ios+created:>2026-07-25`、`topic:agent-skills+topic:swift+created:>2026-07-25`、`topic:mcp-server+topic:macos+created:>2026-07-25`、`swift+mcp+agent+stars:>50+pushed:>2026-07-28`、`ios+agent+skill+mcp+stars:>50+pushed:>2026-07-28`、`apple+agent+skill+mcp+stars:>50+pushed:>2026-07-20`、`xcode+agent+skill+mcp+stars:>50+pushed:>2026-07-15`、`swiftui+agent+skill+stars:>50+pushed:>2026-07-24`、`language:swift+mcp+agent+stars:>50+pushed:>2026-07-24`、`topic:mcp-server+topic:apple+created:>2026-07-20`、`created:>2026-07-20+stars:>45+topic:mcp-server`、`created:>2026-07-20+stars:>45+topic:agent-skills`、`topic:ios+topic:mcp-server+stars:>50+pushed:>2026-07-20` 等，通过 GitHub REST API 搜索。
+
+⚠️ **搜索受限**：今日仅发现 1 款符合条件的新条目（Stars > 50，Apple 平台开发相关，AI Agent Skill/MCP Server）。Apple 平台 AI Agent Skills 生态中新项目产出速度持续枯竭，连续 17 天（7/16-8/1）仅 5 个新项目达到门槛。Xcode 27 内置 MCP + Agent Skills 的能力吸收效应持续，独立仓库的新项目产出极少。
+
+候选但未收录（不符合条件）：
+- `caezium/Burrow`: 1,171⭐ — macOS 系统清理/维护工具（含 MCP 支持，但属系统工具类，非 Apple 平台开发 AI Agent Skill）
+- `ghost-in-the-droid/android-agent`: 276⭐ — Android/iOS 真机驱动框架（含 MCP 工具，但以 Android 为主，且与已收录的 `mobile-next/mobile-mcp` 4,986⭐ 类别相似，按规则仅保留 Stars 最多者）
+- `skalesapp/skales`: 1,250⭐ — 跨平台 AI Agent 桌面应用（Windows/macOS/Linux/Android/iOS，非专门 Apple 平台开发）
+- `nimbalyst/nimbalyst`: 1,365⭐ — 跨平台 AI Agent 可视化工作区（非专门 Apple 平台开发）
+- `ai-dashboad/flutter-skill`: 339⭐ — Flutter 多平台测试 Skill（非专门 Apple 平台开发）
+- `SohrabZ/liquid-glass-skills`: 0⭐ — iOS 26 Liquid Glass UI Agent Skills（Stars 不足）
+- `l0cka/kitroom`: 0⭐ — macOS Agent Skills 管理控制中心（Stars 不足）
+- `ibru/swift-testing-skill`: 0⭐ — Swift Testing Agent Skill（新项目，Stars 不足）
+
 ## 2026-07-31
 
 ### 新收录
