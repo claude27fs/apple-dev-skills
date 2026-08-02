@@ -1,5 +1,32 @@
 # Changelog
 
+## 2026-08-03
+
+### 新收录
+（今日无发现 — GitHub 搜索结果中无新的 Apple 平台 AI Agent Skills 达到 Stars >50 门槛，且不在现有列表中）
+
+### 统计
+- 今日新增：0
+- 累计收录：141
+
+### 搜索概况
+检索关键词覆盖：`topic:mcp-server+topic:ios+created:>2026-07-27`、`topic:agent-skills+topic:swift+created:>2026-07-25`、`topic:mcp-server+topic:macos+created:>2026-07-27`、`topic:agent-skills+topic:macos+created:>2026-07-20`、`topic:agent-skills+topic:apple+created:>2026-07-20`、`topic:mcp-server+topic:swift+created:>2026-07-25`、`swift+mcp+agent+stars:>50+created:>2026-07-15`、`ios+agent+skill+stars:>50+created:>2026-07-01`、`macos+agent+skill+mcp+stars:>50+created:>2026-07-01`、`xcode+agent+skill+mcp+stars:>50+created:>2026-07-01`、`apple+agent+skill+stars:>50+created:>2026-07-01`、`swiftui+agent+skill+stars:>50+created:>2026-07-01`、`app+store+connect+mcp+agent+stars:>50+created:>2026-07-01`、`language:swift+mcp+created:>2026-07-01`、`created:>2026-07-25+stars:>50+topic:mcp-server`、`created:>2026-07-25+stars:>50+topic:agent-skills`、`created:>2026-07-20+stars:>30+topic:mcp-server`、`created:>2026-07-20+stars:>30+topic:agent-skills`、`created:>2026-07-15+stars:>30+topic:ios`、`created:>2026-07-15+stars:>30+topic:macos`、`created:>2026-07-15+stars:>30+topic:swift`、`created:>2026-07-10+stars:>50+topic:mcp`、`swift+mcp+agent+stars:>50+pushed:>2026-07-27`、`ios+agent+skill+mcp+stars:>50+pushed:>2026-07-27`、`swift+testing+agent+skill+stars:>30+created:>2026-07-01`、`swift+skill+claude+code+stars:>30+created:>2026-07-01` 等，通过 GitHub REST API 搜索。
+
+⚠️ **搜索受限**：今日未发现任何符合条件的新条目（Stars > 50，Apple 平台开发相关，AI Agent Skill/MCP Server）。Apple 平台 AI Agent Skills 生态中新项目产出速度持续枯竭，连续 19 天（7/16-8/3）仅 6 个新项目达到门槛。Xcode 27 内置 MCP + Agent Skills 的能力吸收效应持续，独立仓库的新项目产出极少。
+
+候选但未收录（不符合条件）：
+- `sun6762/objc-ios-maintenance`: 124⭐ (↑ 从 115⭐) — Objective-C iOS 维护 Skill（已收录于 2026-07-27，Stars 增长）
+- `safaiyeh/app-store-review-skill`: 保持 249⭐ — App Store Review 检查 Skill（已收录于 2026-07-13）
+- `masterofthechaos/ProxyPilot-public`: 保持 52⭐ — Xcode Agent Mode 模型代理工具（已收录于 2026-08-01）
+- `erayendes/app-store-connect-mcp`: 44⭐ — App Store Connect MCP Server（Stars 不足 50 门槛；且与已收录的 `JoshuaRileyDev/app-store-connect-mcp-server` 324⭐ 类别相似）
+- `AvdLee/Xcode-Disk-Cleanup-Agent-Skill`: 36⭐ — Xcode 磁盘清理 Agent Skill（Stars 不足 50 门槛）
+- `aka-kika/hig-mcp`: 34⭐ — Apple HIG 设计令牌 MCP Server（Stars 不足 50 门槛）
+- `Cocoanetics/LSP`: 2⭐ — Swift SourceKit-LSP MCP Server（新项目 2026-07-02，Stars 不足）
+- `SohrabZ/liquid-glass-skills`: 0⭐ — iOS 26 Liquid Glass UI Agent Skills（新项目，Stars 不足）
+- `l0cka/kitroom`: 0⭐ — macOS Agent Skills 管理控制中心（新项目，Stars 不足）
+- `ibru/swift-testing-skill`: 0⭐ — Swift Testing Agent Skill（新项目，Stars 不足）
+- `alexanderwe/swiftui-native-component-design-skill`: 0⭐ — SwiftUI 原生组件设计 Agent Skill（新项目，Stars 不足）
+
 ## 2026-08-02
 
 ### 新收录
