@@ -1,5 +1,32 @@
 # Changelog
 
+## 2026-08-05
+
+### 新收录
+- [junmo-kim/mac-local-vision](https://github.com/junmo-kim/mac-local-vision) - Stars: 56 ⭐ | MCP Server | macOS 本地视觉 MCP Server，为 AI Agent 提供零 token 消耗的设备端视觉能力（OCR、像素级 UI 定位、人脸分组），纯 Swift 实现，单二进制零依赖，专为 Apple Silicon 优化
+- [gaixianggeng/codex-ipad-agent](https://github.com/gaixianggeng/codex-ipad-agent) - Stars: 78 ⭐ | iOS/iPadOS App | 原生 iPhone/iPad 客户端，用于远程管理 OpenAI Codex CLI 和 Claude Code 会话——审查 diff、批准操作、管理 Git，Swift/SwiftUI 实现，本地优先 + Tailscale 组网
+
+### 统计
+- 今日新增：2
+- 累计收录：145
+
+### 搜索概况
+检索关键词覆盖：`topic:mcp-server+topic:ios+stars:>50`、`topic:agent-skills+topic:swift+stars:>50`、`topic:mcp-server+topic:macos+stars:>50`、`topic:mcp-server+topic:swift+stars:>50`、`topic:apple+topic:agent-skills+stars:>50`、`topic:apple+topic:mcp-server+stars:>50`、`language:swift+mcp+stars:>50`、`swiftui+agent+stars:>50`、`swift+skill+claude+code+stars:>50`、`ios+agent+stars:>50`、`macos+agent+stars:>50` 等，通过 GitHub REST API 搜索。
+
+⚠️ **搜索受限**：今日仅发现 2 款符合条件的新条目（Stars > 50，Apple 平台开发相关，AI Agent Skill/MCP Server）。Apple 平台 AI Agent Skills 生态中新项目产出持续枯竭，连续 21 天（7/16-8/5）仅 10 个新项目达到门槛。Xcode 27 内置 MCP + Agent Skills 的能力吸收效应持续，独立仓库的新项目产出极少。
+
+候选但未收录（不符合条件）：
+- `everettjf/vm4a`: 104⭐ — Apple Silicon 上为 AI Agent 启动隔离 macOS/Linux VM（DevOps 工具，非 Apple 平台开发 AI Agent Skill）
+- `Sentient-OS-Labs/sentient-os`: 410⭐ — 本地 LLM 个人 AI 助手（非 Apple 平台开发相关，属个人 AI 助手）
+- `caezium/Burrow`: 1,200⭐ — macOS 系统清理/维护工具（非 Apple 平台开发 AI Agent Skill）
+- `channprj/kmsg`: 247⭐ — KakaoTalk MCP Server（非 Apple 平台开发相关）
+- `palmier-io/palmier-pro`: 13,061⭐ — macOS 视频编辑器（非 Apple 平台开发 AI Agent Skill）
+- `robzilla1738/skillz-macos`: 130⭐ — macOS AI Skills 管理应用（与已收录 `Shpigford/chops` 1,448⭐ 类别相似，按规则仅保留 Stars 最多者）
+- `QwenLM/open-computer-use`: 199⭐ — 跨平台 Computer Use MCP（非专门 Apple 平台开发）
+- `iFurySt/open-codex-computer-use`: 1,603⭐ — 跨平台 Computer Use（非专门 Apple 平台开发）
+- `MongLong0214/logic-pro-mcp`: 51⭐ — Logic Pro MCP Server（音乐制作工具，非 Apple 平台开发）
+- `koltyj/logic-pro-mcp`: 67⭐ — Logic Pro MCP Server（音乐制作工具，非 Apple 平台开发）
+
 ## 2026-08-04
 
 ### 新收录
