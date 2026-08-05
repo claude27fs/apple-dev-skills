@@ -1,5 +1,32 @@
 # Changelog
 
+## 2026-08-06
+
+### 新收录
+（今日无发现 — GitHub 搜索结果中无新的 Apple 平台 AI Agent Skills 达到 Stars >50 门槛，且不在现有列表中）
+
+### 统计
+- 今日新增：0
+- 累计收录：145
+
+### 搜索概况
+检索关键词覆盖：`topic:mcp-server+topic:swift+stars:>50+created:>2026-07-30`、`topic:agent-skills+topic:swift+stars:>50+created:>2026-07-25`、`topic:mcp-server+topic:macos+stars:>50+created:>2026-07-25`、`swift+mcp+agent+stars:>50+pushed:>2026-08-01`、`ios+agent+skill+mcp+stars:>50+pushed:>2026-08-01`、`macos+agent+skill+mcp+stars:>50+pushed:>2026-07-20`、`apple+mcp+agent+stars:>50+pushed:>2026-07-25`、`swiftui+agent+skill+stars:>50+pushed:>2026-07-20`、`language:swift+agent+skill+stars:>50+created:>2026-07-01`、`created:>2026-07-25+stars:>50+topic:ios`、`created:>2026-07-25+stars:>50+topic:macos`、`created:>2026-07-25+stars:>50+topic:swift`、`created:>2026-07-25+stars:>50+topic:mcp`、`swift+agent+stars:>50+created:>2026-07-25`、`topic:agent-skills+created:>2026-07-25+stars:>30` 等，通过 GitHub REST API 搜索。
+
+⚠️ **搜索受限**：今日未发现任何符合条件的新条目（Stars > 50，Apple 平台开发相关，AI Agent Skill/MCP Server）。Apple 平台 AI Agent Skills 生态中新项目产出持续枯竭，连续 22 天（7/16-8/6）仅 10 个新项目达到门槛。Xcode 27 内置 MCP + Agent Skills 的能力吸收效应持续，独立仓库的新项目产出极少。
+
+候选但未收录（不符合条件）：
+- `cristicretu/diri`: 197⭐ — 原生 macOS 编码 Agent 编排器，支持并行运行 Claude Code/Codex/Cursor/Gemini（非 Apple 平台开发相关，属通用编码 Agent 管理工具，与已拒绝的 `shirenchuang/agentbro` 202⭐ 类别相似）
+- `dpearson2699/swift-ios-skills`: 971⭐ (↑ 从 611⭐) — iOS 26+ Agent Skills（已收录于 2026-05-22，Stars 大幅增长）
+- `zelentsov-dev/asc-mcp`: 56⭐ — App Store Connect MCP Server（与已收录的 `JoshuaRileyDev/app-store-connect-mcp-server` 329⭐ 类别相似，按规则仅保留 Stars 最多者）
+- `devsemih/appstore-review-skill`: 83⭐ — App Store Review 检查 Skill（与已收录的 `safaiyeh/app-store-review-skill` 204⭐ 类别相似，按规则仅保留 Stars 最多者）
+- `epheterson/applemusic-mcp`: 78⭐ — Apple Music 播放控制 MCP Server（非 Apple 开发相关）
+- `m1ng-li/mac-thermalright-ai-monitor`: 53⭐ — macOS 硬件监控（非 Apple 平台开发 AI Agent Skill）
+- `AvdLee/Xcode-Disk-Cleanup-Agent-Skill`: 39⭐ — Xcode 磁盘清理 Agent Skill（Stars 不足 50 门槛）
+- `SohrabZ/liquid-glass-skills`: 1⭐ — iOS 26 Liquid Glass UI Agent Skills（Stars 不足 50 门槛）
+- `chsistrying/swift-ship-skills`: 0⭐ — Swift/macOS 打包发布 Skill（Stars 不足 50 门槛）
+- `nemanjavlahovic/instruments-mcp-server`: 18⭐ — Xcode Instruments MCP Server（Stars 不足 50 门槛）
+- `riwsky/iosef`: 16⭐ — iOS Simulator 自动化 CLI + MCP Server（Stars 不足 50 门槛）
+
 ## 2026-08-05
 
 ### 新收录
