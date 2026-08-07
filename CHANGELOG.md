@@ -1,5 +1,28 @@
 # Changelog
 
+## 2026-08-08
+
+### 新收录
+- [dembsky/PropMotion](https://github.com/dembsky/PropMotion) - Stars: 82 ⭐ | Agent Skill (Claude Code) | SwiftUI 3D 动画 Claude Code Skill，让 AI Agent 在 SwiftUI 应用中创建 SceneKit 3D 场景、编排烘焙动画、手写物理效果和真实阴影
+
+### 统计
+- 今日新增：1
+- 累计收录：146
+
+### 搜索概况
+检索关键词覆盖：`created:>2026-08-06+stars:>50+topic:swift`、`created:>2026-08-06+stars:>50+topic:mcp-server`、`created:>2026-08-06+stars:>50+topic:agent-skills`、`created:>2026-08-06+stars:>50+language:swift`、`created:>2026-08-06+stars:>50`（全量扫描）、`created:>2026-08-06+stars:>50+(swift+OR+ios+OR+macos+OR+xcode)` 等，通过 GitHub REST API 搜索。
+
+⚠️ **搜索受限**：今日仅发现 1 款符合条件的新条目（Stars > 50，Apple 平台开发相关，AI Agent Skill/MCP Server）。Apple 平台 AI Agent Skills 生态中新项目产出持续枯竭，连续 24 天（7/16-8/8）仅 11 个新项目达到门槛。Xcode 27 内置 MCP + Agent Skills 的能力吸收效应持续，独立仓库的新项目产出极少。
+
+候选但未收录（不符合条件）：
+- `zelentsov-dev/asc-mcp`: 57⭐ — App Store Connect MCP Server（与已收录的 `JoshuaRileyDev/app-store-connect-mcp-server` 329⭐ 类别相似，按规则仅保留 Stars 最多者）
+- `devsemih/appstore-review-skill`: 83⭐ — App Store Review 检查 Skill（与已收录的 `safaiyeh/app-store-review-skill` 204⭐ 类别相似，按规则仅保留 Stars 最多者）
+- `epheterson/applemusic-mcp`: 80⭐ — Apple Music 播放控制 MCP Server（非 Apple 开发相关）
+- `m1ng-li/mac-thermalright-ai-monitor`: 53⭐ — macOS 硬件监控（非 Apple 平台开发 AI Agent Skill）
+- `AvdLee/Xcode-Disk-Cleanup-Agent-Skill`: 40⭐ — Xcode 磁盘清理 Agent Skill（Stars 不足 50 门槛）
+- `aka-kika/hig-mcp`: 35⭐ — Apple HIG 设计令牌 MCP Server（Stars 不足 50 门槛）
+- `Nagarjuna2997/ios-agent-skill`: 32⭐ — iOS Agent Skill（Stars 不足 50 门槛）
+
 ## 2026-08-07
 
 ### 新收录
