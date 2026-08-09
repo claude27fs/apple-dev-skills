@@ -1,5 +1,30 @@
 # Changelog
 
+## 2026-08-10
+
+### 新收录
+- [Samin100/codex-ios-assistant](https://github.com/Samin100/codex-ios-assistant) - Stars: 175 ⭐ | Agent Skill (Codex) | 让 Codex AI Agent 通过 iMessage + Shortcuts 远程控制和检查 iPhone，支持截图、剪贴板读写、打开应用、管理闹钟等，含 Codex Skill 安装至 `~/.agents/skills`，Python 实现
+
+### 统计
+- 今日新增：1
+- 累计收录：147
+
+### 搜索概况
+检索关键词覆盖：`created:>2026-08-08+stars:>50+topic:mcp-server`、`created:>2026-08-08+stars:>50+topic:agent-skills`、`created:>2026-08-08+stars:>50+(topic:swift+OR+topic:ios+OR+topic:macos+OR+topic:apple)+mcp`、`created:>2026-08-06+stars:>40+topic:mcp-server`、`created:>2026-08-06+stars:>40+topic:agent-skills`、`pushed:>2026-08-08+stars:>50+topic:mcp-server+topic:swift`、`created:>2026-08-06+stars:>30+topic:mcp`、`created:>2026-08-05+stars:>30+(swift+OR+ios+OR+macos+OR+xcode+OR+swiftui+OR+apple)`、`created:>2026-08-06+stars:>30+(codex+OR+claude+OR+cursor+OR+mcp+OR+agent+skill)+(ios+OR+iphone+OR+ipad+OR+swift+OR+macos+OR+xcode+OR+swiftui+OR+apple)`、`created:>2026-08-06+stars:>30+skill+in:name+(swift+OR+ios+OR+macos+OR+xcode+OR+apple+OR+swiftui)` 等，通过 GitHub REST API 搜索。
+
+⚠️ **搜索受限**：今日仅发现 1 款符合条件的新条目（Stars > 50，Apple 平台开发相关，AI Agent Skill/MCP Server）。Apple 平台 AI Agent Skills 生态中新项目产出持续枯竭，连续 26 天（7/16-8/10）仅 12 个新项目达到门槛。Xcode 27 内置 MCP + Agent Skills 的能力吸收效应持续，独立仓库的新项目产出极少。
+
+候选但未收录（不符合条件）：
+- `cristicretu/diri`: 233⭐ — 原生 macOS 编码 Agent 编排器（与已拒绝的 `shirenchuang/agentbro` 180⭐ 类别相似，属通用编码 Agent 管理工具，非 Apple 平台开发相关）
+- `dembsky/PropMotion`: 96⭐ (↑ 从 82⭐) — SwiftUI 3D 动画 Claude Code Skill（已收录于 2026-08-08，Stars 增长）
+- `zelentsov-dev/asc-mcp`: 57⭐ — App Store Connect MCP Server（与已收录的 `JoshuaRileyDev/app-store-connect-mcp-server` 329⭐ 类别相似，按规则仅保留 Stars 最多者）
+- `devsemih/appstore-review-skill`: 84⭐ — App Store Review 检查 Skill（与已收录的 `safaiyeh/app-store-review-skill` 204⭐ 类别相似，按规则仅保留 Stars 最多者）
+- `epheterson/applemusic-mcp`: 80⭐ — Apple Music 播放控制 MCP Server（非 Apple 开发相关）
+- `m1ng-li/mac-thermalright-ai-monitor`: 54⭐ — macOS 硬件监控（非 Apple 平台开发 AI Agent Skill）
+- `erayendes/app-store-connect-mcp`: 46⭐ — App Store Connect MCP Server（Stars 不足 50 门槛）
+- `AvdLee/Xcode-Disk-Cleanup-Agent-Skill`: 41⭐ — Xcode 磁盘清理 Agent Skill（Stars 不足 50 门槛）
+- `aka-kika/hig-mcp`: 35⭐ — Apple HIG 设计令牌 MCP Server（Stars 不足 50 门槛）
+
 ## 2026-08-09
 
 ### 新收录
