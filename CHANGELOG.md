@@ -1156,3 +1156,29 @@
 
 - 今日新增：5
 - 累计收录：5
+
+## 2026-08-12
+
+### 新收录
+（今日无发现 — GitHub REST API 搜索结果中无新的 Apple 平台 AI Agent Skills 达到 Stars >50 门槛，且不在现有列表中）
+
+### 统计
+- 今日新增：0
+- 累计收录：147
+
+### 搜索概况
+检索关键词覆盖：`created:>2026-08-08+stars:>50+topic:mcp-server+topic:swift`、`created:>2026-08-08+stars:>50+topic:agent-skills+topic:swift`、`created:>2026-08-08+stars:>50+topic:mcp-server+topic:ios`、`created:>2026-08-08+stars:>50+topic:mcp-server+topic:macos`、`created:>2026-08-08+stars:>50+topic:agent-skills+topic:ios`、`created:>2026-08-08+stars:>50+topic:agent-skills+topic:macos`、`created:>2026-08-08+stars:>50+topic:mcp-server+topic:apple`、`created:>2026-08-08+stars:>50+topic:agent-skills+topic:apple`、`pushed:>2026-08-08+stars:>50+topic:agent-skills+topic:swift`、`pushed:>2026-08-08+stars:>50+topic:mcp-server+topic:swift`、`pushed:>2026-08-08+stars:>50+topic:mcp-server+topic:ios`、`pushed:>2026-08-08+stars:>50+topic:agent-skills+topic:ios`、`pushed:>2026-08-08+stars:>50+topic:mcp-server+topic:macos`、`pushed:>2026-08-08+stars:>50+topic:agent-skills+topic:macos`、`pushed:>2026-08-08+stars:>50+swift+mcp+agent`、`pushed:>2026-08-08+stars:>50+swift+agent+skill`、`pushed:>2026-08-08+stars:>50+ios+mcp+server`、`pushed:>2026-08-08+stars:>50+macos+mcp+server`、`pushed:>2026-08-08+stars:>50+xcode+mcp+agent`、`pushed:>2026-08-08+stars:>50+swiftui+agent+skill`、`created:>2026-08-08+stars:>50+topic:mcp`、`created:>2026-08-08+stars:>50+topic:agent-skills`、`created:>2026-08-08+stars:>30+swift+skill+agent`、`created:>2026-08-08+stars:>30+ios+skill+agent`、`created:>2026-08-08+stars:>30+macos+skill+agent`、`created:>2026-08-08+stars:>30+xcode+skill+agent`、`created:>2026-08-08+stars:>30+codex+ios+swift`、`created:>2026-08-08+stars:>30+claude+code+ios+swift`、`created:>2026-08-08+stars:>30+app+store+connect+mcp`、`created:>2026-08-08+stars:>30+apple+developer+mcp`、`created:>2026-08-08+stars:>30+swift+testing+agent+skill`、`pushed:>2026-08-08+stars:>100+swift+mcp+agent+development`、`pushed:>2026-08-08+stars:>50+swiftui+mcp+skill`、`pushed:>2026-08-08+stars:>50+ios+simulator+mcp`，通过 GitHub REST API 搜索。
+
+⚠️ **搜索受限**：今日未发现任何符合条件的新条目（Stars > 50，Apple 平台开发相关，AI Agent Skill/MCP Server）。Apple 平台 AI Agent Skills 生态中新项目产出持续枯竭，连续 29 天（7/16-8/12）仅 12 个新项目达到门槛。Xcode 27 内置 MCP + Agent Skills 的能力吸收效应持续，独立仓库的新项目产出极少。
+
+候选但未收录（不符合条件）：
+- `Samin100/codex-ios-assistant`: 214⭐ (↑ 从 203⭐) — Codex iOS 远程控制 Skill（已收录于 2026-08-10，Stars 增长）
+- `zelentsov-dev/asc-mcp`: 57⭐ — App Store Connect MCP Server（与已收录的 `JoshuaRileyDev/app-store-connect-mcp-server` 329⭐ 类别相似，按规则仅保留 Stars 最多者）
+- `devsemih/appstore-review-skill`: 84⭐ — App Store Review 检查 Skill（与已收录的 `safaiyeh/app-store-review-skill` 204⭐ 类别相似，按规则仅保留 Stars 最多者）
+- `erayendes/app-store-connect-mcp`: 46⭐ — App Store Connect MCP Server（Stars 不足 50 门槛，且与已收录条目类别相似）
+- `AvdLee/Xcode-Disk-Cleanup-Agent-Skill`: 41⭐ — Xcode 磁盘清理 Agent Skill（Stars 不足 50 门槛）
+- `aka-kika/hig-mcp`: 35⭐ — Apple HIG 设计令牌 MCP Server（Stars 不足 50 门槛）
+- `m1ng-li/mac-thermalright-ai-monitor`: 55⭐ — macOS 硬件监控（非 Apple 平台开发 AI Agent Skill）
+- `epheterson/applemusic-mcp`: 81⭐ — Apple Music 播放控制 MCP Server（非 Apple 开发相关）
+- `existential-birds/beagle`: 75⭐ — Agent Skills 市场（跨平台通用，非专门 Apple 平台开发）
+- `FradSer/mcp-server-apple-events`: 180⭐ — Apple Reminders/Calendar MCP Server（非 Apple 开发相关，属生产力工具类）
