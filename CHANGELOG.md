@@ -1,5 +1,24 @@
 # Changelog
 
+## 2026-08-13
+
+### 新收录
+（今日无发现 — 网络搜索全部不可用，无法执行 GitHub 查询）
+
+### 统计
+- 今日新增：0
+- 累计收录：147
+
+### 搜索概况
+⚠️ **网络严重故障**：今日所有搜索渠道均不可用，无法执行 GitHub 查询。
+- `web_search`：所有查询均返回 `fetch failed`
+- `web_fetch` 到 GitHub：Blocked（DNS 解析到私有 IP 198.18.0.108）
+- GitHub REST API (curl)：DNS 解析到 198.18.0.108，SSL 握手失败
+- GitHub SSH (git push)：连接被 Clash 代理拦截到 198.18.0.109，连接被关闭
+- `serp-search` (SerpAPI)：SSL 错误 `EOF occurred in violation of protocol`
+
+根因：Clash 代理正在劫持 DNS 并将 GitHub 流量重定向到本地代理（198.18.0.108/109），但该代理未正常工作。需排查 Clash 配置或 VPN 状态。
+
 ## 2026-08-11
 
 ### 新收录
