@@ -1,5 +1,31 @@
 # Changelog
 
+## 2026-08-14
+
+### 新收录
+（今日无发现 — GitHub REST API 搜索结果中无新的 Apple 平台 AI Agent Skills 达到 Stars >50 门槛，且不在现有列表中）
+
+### 统计
+- 今日新增：0
+- 累计收录：147
+
+### 搜索概况
+检索关键词覆盖：`created:>2026-08-11+stars:>50+topic:mcp-server+topic:swift`、`created:>2026-08-11+stars:>50+topic:agent-skills+topic:swift`、`created:>2026-08-11+stars:>50+topic:mcp-server+topic:ios`、`created:>2026-08-11+stars:>50+topic:mcp-server+topic:macos`、`created:>2026-08-11+stars:>50+topic:agent-skills+topic:apple`、`created:>2026-08-10+stars:>50+language:swift`、`created:>2026-08-10+stars:>50+mcp+(swift+OR+ios+OR+macos+OR+xcode+OR+apple)+in:name,description`、`created:>2026-08-10+stars:>50+claude+code+skill+(swift+OR+ios+OR+macos+OR+apple)`、`created:>2026-08-10+stars:>50+agent+skill+(swift+OR+ios+OR+macos+OR+apple)+in:name,description`、`pushed:>2026-08-11+stars:>50+(swift+OR+ios+OR+macos+OR+xcode+OR+apple)+agent+skill+in:name,description`、`pushed:>2026-08-11+stars:>50+(swift+OR+ios+OR+macos+OR+xcode+OR+apple)+mcp+server+in:name,description`、`created:>2026-08-11+stars:>30+topic:agent-skills`、`created:>2026-08-11+stars:>30+topic:mcp-server` 等，通过 GitHub REST API 搜索。
+
+⚠️ **搜索受限**：今日未发现任何符合条件的新条目（Stars > 50，Apple 平台开发相关，AI Agent Skill/MCP Server）。Apple 平台 AI Agent Skills 生态中新项目产出持续枯竭，连续 30 天（7/16-8/14）仅 12 个新项目达到门槛。Xcode 27 内置 MCP + Agent Skills 的能力吸收效应持续，独立仓库的新项目产出极少。
+
+⚠️ **网络受限**：`web_search`（DuckDuckGo 触发 bot detection）、`web_fetch` 到 GitHub（DNS 被 Clash 代理劫持到私有 IP 198.18.0.108）均不可用。GitHub REST API（curl）可用，已覆盖所有搜索维度。
+
+候选但未收录（不符合条件）：
+- `manhvann/codexkit`: 73⭐ — Codex 工作区工具包（通用开发工具，非 Apple 平台开发相关）
+- `thiientv/godmode`: 67⭐ — 通用 Agent Skills 集合（非 Apple 平台开发相关）
+- `nduc99911/repo-context-mcp`: 84⭐ — 代码仓库上下文 MCP Server（通用开发工具，非 Apple 平台开发相关）
+- `fellowgeek/mcp-memory`: 70⭐ — Agent 持久化记忆 MCP Server（通用工具，非 Apple 平台开发相关）
+- `Leutenegger/book-to-skill`: 658⭐ — PDF 转 Claude Code Skill（通用工具，非 Apple 平台开发相关）
+- `helloyulife/CoderBar`: 62⭐ — macOS 菜单栏 AI Agent 控制工具（人类操作工具，非 AI Agent 可调用的 Skill/MCP Server）
+- `liseami/ChunUI`: 72⭐ — SwiftUI 设计系统（非 AI Agent Skill）
+- `frs0n/GestaltEdit`: 288⭐ — iOS 27 MobileGestalt 编辑器（越狱工具，非 AI Agent Skill）
+
 ## 2026-08-13
 
 ### 新收录
