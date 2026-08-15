@@ -1,5 +1,28 @@
 # Changelog
 
+## 2026-08-16
+
+### 新收录
+（今日无发现 — GitHub REST API 搜索结果中无新的 Apple 平台 AI Agent Skills 达到 Stars >50 门槛，且不在现有列表中）
+
+### 统计
+- 今日新增：0
+- 累计收录：147
+
+### 搜索概况
+检索关键词覆盖：`created:>2026-08-13+stars:>50+topic:mcp-server+topic:swift`、`created:>2026-08-13+stars:>50+topic:agent-skills+topic:swift`、`created:>2026-08-13+stars:>50+topic:mcp-server+topic:ios`、`created:>2026-08-13+stars:>50+topic:mcp-server+topic:macos`、`created:>2026-08-13+stars:>50+topic:agent-skills+topic:apple`、`created:>2026-08-13+stars:>50+topic:agent-skills+topic:ios`、`created:>2026-08-13+stars:>50+language:swift+topic:mcp-server`、`created:>2026-08-13+stars:>50+(swift+OR+ios+OR+macos+OR+xcode+OR+apple)+mcp+in:name,description`、`created:>2026-08-13+stars:>50+(swift+OR+ios+OR+macos+OR+xcode+OR+apple)+agent+skill+in:name,description`、`pushed:>2026-08-13+stars:>50+topic:mcp-server+topic:swift`、`pushed:>2026-08-13+stars:>50+topic:agent-skills+topic:swift`、`pushed:>2026-08-13+stars:>50+topic:mcp-server+topic:ios`、`created:>2026-08-10+stars:>50+language:swift`、`created:>2026-08-13+stars:>40+(swift+OR+ios+OR+macos+OR+apple+OR+xcode)+(mcp+OR+skill)+in:name,description`、`created:>2026-08-10+stars:>50+topic:mcp-server+topic:apple`、`created:>2026-08-10+stars:>50+topic:agent-skills+topic:ios` 等，通过 GitHub REST API 搜索。
+
+⚠️ **搜索受限**：今日未发现任何符合条件的新条目（Stars > 50，Apple 平台开发相关，AI Agent Skill/MCP Server）。Apple 平台 AI Agent Skills 生态中新项目产出持续枯竭，连续 32 天（7/16-8/16）仅 12 个新项目达到门槛。Xcode 27 内置 MCP + Agent Skills 的能力吸收效应持续，独立仓库的新项目产出极少。
+
+候选但未收录（不符合条件）：
+- `frs0n/GestaltEdit`: 380⭐ — iOS 27 MobileGestalt 编辑器（越狱工具，非 AI Agent Skill）
+- `liseami/ChunUI`: 164⭐ — SwiftUI 设计系统（非 AI Agent Skill）
+- `YangJiiii/3105`: 109⭐ — iOS app-data 浏览器（非 AI Agent Skill）
+- `hairyf/deepseek-harness-desktop`: 154⭐ — DeepSeek Harness 桌面版（Tauri 实现，非 Apple 平台开发 AI Agent Skill）
+- `anibalribeiro/WinMice`: 65⭐ — macOS 菜单栏鼠标工具（非 AI Agent Skill）
+- `helloyulife/CoderBar`: 56⭐ — macOS 菜单栏 Agent 控制工具（人类操作工具，非 AI Agent 可调用的 Skill/MCP Server）
+- `Nouvborne/Ketamine`: 52⭐ — 无描述（无法确认类别）
+
 ## 2026-08-15
 
 ### 新收录
