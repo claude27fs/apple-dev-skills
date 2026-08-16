@@ -1,5 +1,27 @@
 # Changelog
 
+## 2026-08-17
+
+### 新收录
+（今日无发现 — GitHub REST API 搜索结果中无新的 Apple 平台 AI Agent Skills 达到 Stars >50 门槛，且不在现有列表中）
+
+### 统计
+- 今日新增：0
+- 累计收录：147
+
+### 搜索概况
+检索关键词覆盖：`created:>2026-08-14+stars:>50+topic:mcp-server+topic:swift`、`created:>2026-08-14+stars:>50+topic:agent-skills+topic:swift`、`created:>2026-08-14+stars:>50+topic:mcp-server+topic:ios`、`created:>2026-08-14+stars:>50+topic:mcp-server+topic:macos`、`created:>2026-08-14+stars:>50+topic:agent-skills+topic:apple`、`created:>2026-08-14+stars:>50+topic:agent-skills+topic:ios`、`created:>2026-08-14+stars:>50+(swift+OR+ios+OR+macos+OR+xcode+OR+apple)+(mcp+OR+skill+OR+agent)+in:name,description`、`pushed:>2026-08-14+stars:>50+(swift+OR+ios+OR+macos+OR+xcode+OR+apple)+(mcp+OR+skill+OR+agent)+in:name,description`、`topic:mcp-server+topic:swift+stars:>50`（按更新时间排序）、`topic:agent-skills+topic:swift+stars:>50`（按更新时间排序）、`topic:mcp-server+topic:ios+stars:>50`（按更新时间排序）、`topic:agent-skills+topic:apple+stars:>50`（按更新时间排序）、`created:>2026-08-10+stars:>30+(swift+OR+ios+OR+macos+OR+xcode+OR+apple+OR+swiftui)+in:name,description`（降至 30⭐ 门槛全量扫描）、`created:>2026-08-10+stars:>20+skill+in:name+(swift+OR+ios+OR+macos+OR+xcode+OR+apple+OR+swiftui)`（降至 20⭐ 门槛扫描）、`created:>2026-08-10+stars:>20+mcp+in:name+(swift+OR+ios+OR+macos+OR+xcode+OR+apple+OR+swiftui)`（降至 20⭐ 门槛扫描）等，通过 GitHub REST API 搜索 + DuckDuckGo web_search 辅助。
+
+⚠️ **搜索受限**：今日未发现任何符合条件的新条目（Stars > 50，Apple 平台开发相关，AI Agent Skill/MCP Server）。Apple 平台 AI Agent Skills 生态中新项目产出持续枯竭，连续 33 天（7/16-8/17）仅 12 个新项目达到门槛。Xcode 27 内置 MCP + Agent Skills 的能力吸收效应持续，独立仓库的新项目产出极少。
+
+候选但未收录（不符合条件）：
+- `zelentsov-dev/asc-mcp`: 58⭐ — App Store Connect MCP Server（与已收录的 `JoshuaRileyDev/app-store-connect-mcp-server` 329⭐ 类别相似，按规则仅保留 Stars 最多者）
+- `devsemih/appstore-review-skill`: 84⭐ — App Store Review 检查 Skill（与已收录的 `safaiyeh/app-store-review-skill` 204⭐ 类别相似，按规则仅保留 Stars 最多者）
+- `frs0n/GestaltEdit`: 412⭐ — iOS 27 MobileGestalt 编辑器（越狱工具，非 AI Agent Skill）
+- `liseami/ChunUI`: 167⭐ — SwiftUI 设计系统（非 AI Agent Skill）
+- `helloyulife/CoderBar`: 72⭐ — macOS 菜单栏 Agent 控制工具（人类操作工具，非 AI Agent 可调用的 Skill/MCP Server）
+- `Anionex/dsh-computer-use`: 21⭐ — macOS Computer Use 插件（Stars 不足 50 门槛）
+
 ## 2026-08-16
 
 ### 新收录
